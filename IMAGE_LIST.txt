@@ -1,0 +1,113 @@
+# IMAGE DOWNLOAD - Quick Start
+
+Visit each Wikipedia page and save the main image:
+
+## All 75 Buildings (in order):
+
+**GOTHIC:**
+1. Notre-Dame de Paris
+2. Cologne Cathedral  
+3. Canterbury Cathedral
+4. Milan Cathedral
+5. Chartres Cathedral
+
+**ANCIENT GREEK:**
+6. Parthenon
+7. Temple of Hephaestus
+8. Erechtheion
+9. Temple of Apollo Delphi
+10. Temple of Zeus Olympia
+
+**ANCIENT ROMAN:**
+11. Pantheon Rome
+12. Colosseum
+13. Roman Forum
+14. Maison Carrée
+15. Temple of Vesta
+
+**RENAISSANCE:**
+16. Palazzo Farnese
+17. Palazzo Pitti
+18. Villa Medici
+19. Tempietto
+20. Palazzo Rucellai
+
+**BAROQUE:**
+21. Church of the Gesù
+22. St Peters Basilica
+23. Palace of Versailles
+24. Karlskirche
+25. San Carlo alle Quattro Fontane
+
+**BYZANTINE:**
+26. Hagia Sophia
+27. San Vitale Ravenna
+28. St Marks Basilica
+29. Hosios Loukas
+30. Basilica Cistern
+
+**ISLAMIC:**
+31. Alhambra
+32. Dome of the Rock
+33. Great Mosque of Cordoba
+34. Taj Mahal
+35. Blue Mosque
+
+**NEOCLASSICAL:**
+36. US Capitol
+37. Pantheon Paris
+38. British Museum
+39. Brandenburg Gate
+40. La Madeleine
+
+**ART DECO:**
+41. Chrysler Building
+42. Empire State Building
+43. Hoover Dam
+44. Rockefeller Center
+45. Miami Beach Art Deco
+
+**MODERNIST:**
+46. Fallingwater
+47. Villa Savoye
+48. Barcelona Pavilion
+49. Farnsworth House
+50. Glass House
+
+**INTERNATIONAL STYLE:**
+51. Seagram Building
+52. Lever House
+53. Lake Shore Drive Apartments
+54. UN Headquarters
+55. Bauhaus Dessau
+
+**BRUTALIST:**
+56. Boston City Hall
+57. National Theatre London
+58. Habitat 67
+59. Barbican Estate
+60. Trellick Tower
+
+**POSTMODERN:**
+61. Portland Building
+62. AT&T Building
+63. Piazza d'Italia
+64. BEST Showroom
+65. Vanna Venturi House
+
+**ROMANESQUE:**
+66. Pisa Cathedral
+67. Durham Cathedral
+68. Cluny Abbey
+69. St Sernin Toulouse
+70. Speyer Cathedral
+
+**CONTEMPORARY:**
+71. Guggenheim Bilbao
+72. Beijing National Stadium
+73. Burj Khalifa
+74. The Shard
+75. Sagrada Familia
+
+Save each as: `building-name.jpg` (lowercase, hyphens)
+Example: `notre-dame.jpg`, `hagia-sophia.jpg`

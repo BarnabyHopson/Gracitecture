@@ -1,0 +1,208 @@
+Found 75 buildings to download
+Output directory: /Users/barnabyhopson/Desktop/ArchitectApp/public/images
+
+[1/75] Notre-Dame de Paris
+  ✓ Already exists, skipping
+[2/75] Cologne Cathedral
+  ✓ Already exists, skipping
+[3/75] Canterbury Cathedral
+  ✓ Already exists, skipping
+[4/75] Milan Cathedral (Duomo di Milano)
+  ✓ Already exists, skipping
+[5/75] Chartres Cathedral
+  ✓ Already exists, skipping
+[6/75] Parthenon
+  ✓ Already exists, skipping
+[7/75] Temple of Hephaestus
+  ✓ Already exists, skipping
+[8/75] Erechtheion
+  ✓ Already exists, skipping
+[9/75] Temple of Apollo at Delphi
+  ✓ Already exists, skipping
+[10/75] Temple of Zeus at Olympia
+  ✓ Already exists, skipping
+[11/75] Pantheon
+  ✓ Already exists, skipping
+[12/75] Colosseum
+  ✓ Already exists, skipping
+[13/75] Roman Forum (Temple of Saturn)
+  ✓ Already exists, skipping
+[14/75] Maison Carrée
+  ✓ Already exists, skipping
+[15/75] Temple of Vesta
+  ✓ Already exists, skipping
+[16/75] Palazzo Farnese
+  ✓ Already exists, skipping
+[17/75] Palazzo Pitti
+  ✓ Already exists, skipping
+[18/75] Villa Medici
+  ✓ Already exists, skipping
+[19/75] Tempietto
+  ✓ Already exists, skipping
+[20/75] Palazzo Rucellai
+  ✓ Already exists, skipping
+[21/75] Church of the Gesù
+  ✓ Already exists, skipping
+[22/75] St. Peter's Basilica
+  ✓ Already exists, skipping
+[23/75] Palace of Versailles
+  ✓ Already exists, skipping
+[24/75] Karlskirche
+  ✓ Already exists, skipping
+[25/75] San Carlo alle Quattro Fontane
+  ✓ Already exists, skipping
+[26/75] St. Peter's Basilica
+  ✓ Already exists, skipping
+[27/75] Palace of Versailles
+  📥 Downloading...
+  ✓ Saved to palace-of-versailles.jpg
+[28/75] Church of Sant'Ivo alla Sapienza
+  📥 Downloading...
+  ✓ Saved to church-sant-ivo-alla-sapienza.jpg
+[29/75] Würzburg Residence
+  📥 Downloading...
+  ✓ Saved to wurzburg-residence.jpg
+[30/75] Karlskirche Vienna
+  📥 Downloading...
+  ✓ Saved to karlskirche-vienna.jpg
+[31/75] Taj Mahal
+  📥 Downloading...
+  ✓ Saved to taj-mahal.jpg
+[32/75] Alhambra
+  📥 Downloading...
+  ✓ Saved to alhambra.jpg
+[33/75] Blue Mosque
+  📥 Downloading...
+  ✓ Saved to blue-mosque.jpg
+[34/75] Great Mosque of Cordoba
+  📥 Downloading...
+  ✓ Saved to great-mosque-cordoba.jpg
+[35/75] Dome of the Rock
+  📥 Downloading...
+  ✓ Saved to dome-of-the-rock.jpg
+[36/75] Hagia Sophia
+  📥 Downloading...
+  ✓ Saved to hagia-sophia.jpg
+[37/75] Basilica of San Vitale
+  📥 Downloading...
+  ✓ Saved to basilica-of-san-vitale.jpg
+[38/75] Basilica Cistern
+  📥 Downloading...
+  ✓ Saved to basilica-cistern.jpg
+[39/75] Chora Church
+  📥 Downloading...
+  ✓ Saved to chora-church.jpg
+[40/75] Cathedral of Monreale
+  📥 Downloading...
+  ✓ Saved to cathedral-of-monreale.jpg
+[41/75] Durham Cathedral
+  📥 Downloading...
+  ✓ Saved to durham-cathedral.jpg
+[42/75] Pisa Cathedral
+  📥 Downloading...
+  ✓ Saved to pisa-cathedral.jpg
+[43/75] Speyer Cathedral
+  📥 Downloading...
+  ✓ Saved to speyer-cathedral.jpg
+[44/75] Abbey of Cluny
+  📥 Downloading...
+  ✓ Saved to abbey-of-cluny.jpg
+[45/75] Santiago de Compostela Cathedral
+  📥 Downloading...
+  ✓ Saved to santiago-de-compostela-cathedral.jpg
+[46/75] Casa Batlló
+  📥 Downloading...
+  ✓ Saved to casa-batllo.jpg
+[47/75] Hôtel Tassel
+  📥 Downloading...
+  ✓ Saved to hotel-tassel.jpg
+[48/75] Glasgow School of Art
+  📥 Downloading...
+  ✓ Saved to glasgow-school-of-art.jpg
+[49/75] Casa Milà
+  📥 Downloading...
+  ✓ Saved to casa-mila.jpg
+[50/75] Secession Building
+  📥 Downloading...
+  ✓ Saved to secession-building.jpg
+[51/75] Chrysler Building
+  📥 Downloading...
+  ✓ Saved to chrysler-building.jpg
+[52/75] Empire State Building
+  📥 Downloading...
+  ✓ Saved to empire-state-building.jpg
+[53/75] Hoover Dam
+  📥 Downloading...
+  ✓ Saved to hoover-dam.jpg
+[54/75] Radio City Music Hall
+  📥 Downloading...
+  ✓ Saved to radio-city-music-hall.jpg
+[55/75] Palais de Tokyo
+  📥 Downloading...
+  ✓ Saved to palais-de-tokyo.jpg
+[56/75] Villa Savoye
+  📥 Downloading...
+  ✓ Saved to villa-savoye.jpg
+[57/75] Fallingwater
+  📥 Downloading...
+  ✓ Saved to fallingwater.jpg
+[58/75] Barcelona Pavilion
+  📥 Downloading...
+  ✓ Saved to barcelona-pavilion.jpg
+[59/75] Seagram Building
+  📥 Downloading...
+  ✓ Saved to seagram-building.jpg
+[60/75] Farnsworth House
+  📥 Downloading...
+  ✓ Saved to farnsworth-house.jpg
+[61/75] Habitat 67
+  📥 Downloading...
+  ✓ Saved to habitat-67.jpg
+[62/75] National Theatre London
+  📥 Downloading...
+  ✓ Saved to national-theatre-london.jpg
+[63/75] Barbican Estate
+  📥 Downloading...
+  ✓ Saved to barbican-estate.jpg
+[64/75] Boston City Hall
+  📥 Downloading...
+  ✓ Saved to boston-city-hall.jpg
+[65/75] Trellick Tower
+  📥 Downloading...
+  ✓ Saved to trellick-tower.jpg
+[66/75] The Panthéon Paris
+  📥 Downloading...
+  ✓ Saved to pantheon-paris.jpg
+[67/75] Brandenburg Gate
+  📥 Downloading...
+  ✓ Saved to brandenburg-gate.jpg
+[68/75] The White House
+  📥 Downloading...
+  ✓ Saved to the-white-house.jpg
+[69/75] British Museum
+  📥 Downloading...
+  ✓ Saved to british-museum.jpg
+[70/75] La Madeleine
+  📥 Downloading...
+  ✓ Saved to la-madeleine.jpg
+[71/75] Guggenheim Bilbao
+  📥 Downloading...
+  ✓ Saved to guggenheim-bilbao.jpg
+[72/75] Beijing National Stadium
+  📥 Downloading...
+  ✓ Saved to beijing-national-stadium.jpg
+[73/75] Burj Khalifa
+  📥 Downloading...
+  ✓ Saved to burj-khalifa.jpg
+[74/75] The Shard
+  📥 Downloading...
+  ✓ Saved to the-shard.jpg
+[75/75] CCTV Headquarters
+  📥 Downloading...
+  ✓ Saved to cctv-headquarters.jpg
+
+==================================================
+Download complete!
+Successful: 75/75
+Failed: 0/75
+==================================================

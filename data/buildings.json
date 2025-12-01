@@ -1,0 +1,2102 @@
+[
+  {
+    "id": "notre-dame",
+    "name": "Notre-Dame de Paris",
+    "image_url": "/images/notre-dame.jpg",
+    "style": "Gothic",
+    "style_distractors": [
+      "Romanesque",
+      "Neo-Gothic",
+      "Byzantine"
+    ],
+    "era": "1163-1345",
+    "style_explanation": "Gothic architecture features pointed arches, ribbed vaults, and flying buttresses. Notre-Dame exemplifies High Gothic with its soaring verticality, large rose windows, and innovative structural system that allows thin walls filled with stained glass.",
+    "engineering_question": "What structural innovation allows Gothic cathedrals to have large stained glass windows?",
+    "engineering_answer": "Flying buttresses",
+    "engineering_distractors": [
+      "Load-bearing walls",
+      "Steel reinforcement",
+      "Concrete arches"
+    ],
+    "engineering_explanation": "Flying buttresses are external supports that transfer the lateral thrust from the roof vaults outward and downward to external piers. This allows the walls to be thin and filled with glass, as they no longer need to support the roof's weight directly.",
+    "fun_facts": [
+      "Construction took 182 years to complete",
+      "The flying buttresses were added after cracks appeared in the walls",
+      "Victor Hugo's 1831 novel sparked major restoration efforts",
+      "Survived the French Revolution when it was converted to a 'Temple of Reason'"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "cologne-cathedral",
+    "name": "Cologne Cathedral",
+    "image_url": "/images/cologne-cathedral.jpg",
+    "style": "Gothic",
+    "style_distractors": [
+      "Romanesque",
+      "Neo-Gothic",
+      "Gothic Revival"
+    ],
+    "era": "1248-1880",
+    "style_explanation": "This German Gothic masterpiece features twin spires, elaborate tracery, and characteristic pointed arches. The facade demonstrates the Gothic love of vertical emphasis and intricate stone carving.",
+    "engineering_question": "How do the twin towers of Cologne Cathedral resist wind forces?",
+    "engineering_answer": "Through massive stone buttressing and internal iron bracing",
+    "engineering_distractors": [
+      "Hollow towers with air flow",
+      "Flexible stone joints",
+      "Underground anchors"
+    ],
+    "engineering_explanation": "The towers use a combination of traditional massive stone construction at the base and, unusually for Gothic architecture, iron tie rods installed in the 19th century to resist lateral wind loads on the tall spires.",
+    "fun_facts": [
+      "Took 632 years to complete - construction paused for 300 years",
+      "Survived 14 hits by aerial bombs in WWII",
+      "Houses the Shrine of the Three Kings, said to contain relics of the Magi",
+      "At completion in 1880, it was briefly the world's tallest building at 157m"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "canterbury-cathedral",
+    "name": "Canterbury Cathedral",
+    "image_url": "/images/canterbury-cathedral.jpg",
+    "style": "Gothic",
+    "style_distractors": [
+      "Norman",
+      "Romanesque",
+      "Perpendicular Gothic"
+    ],
+    "era": "1070-1834",
+    "style_explanation": "Canterbury shows the evolution of English Gothic through Early English, Decorated, and Perpendicular periods. The cathedral demonstrates characteristic English features like elaborate fan vaulting and emphasis on length rather than height.",
+    "engineering_question": "What distinguishes English Gothic vaulting from French Gothic vaulting?",
+    "engineering_answer": "Complex decorative fan vaults and tiercerons",
+    "engineering_distractors": [
+      "Simpler ribbed vaults",
+      "Groin vaults only",
+      "Barrel vaults"
+    ],
+    "engineering_explanation": "English Gothic developed elaborate fan vaulting where ribs spread out from columns like a fan. This is more decorative and complex than French quadripartite vaults, though structurally similar in function.",
+    "fun_facts": [
+      "Site of Archbishop Thomas Becket's murder in 1170",
+      "Became England's most important pilgrimage site after Becket's martyrdom",
+      "The 'Bell Harry' tower was the last major addition in 1498",
+      "Houses the throne of the Archbishop of Canterbury"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "milan-cathedral",
+    "name": "Milan Cathedral (Duomo di Milano)",
+    "image_url": "/images/milan-cathedral.jpg",
+    "style": "Gothic",
+    "style_distractors": [
+      "Renaissance",
+      "Baroque",
+      "Neo-Gothic"
+    ],
+    "era": "1386-1965",
+    "style_explanation": "Italian Gothic with unique characteristics - more horizontal emphasis than French Gothic, elaborate marble facade with thousands of spires and statues. Shows Italian preference for decoration over structural expression.",
+    "engineering_question": "Why does Milan Cathedral use so many exterior pinnacles and spires?",
+    "engineering_answer": "To add weight and stability to the buttressing system",
+    "engineering_distractors": [
+      "Pure decoration with no structural purpose",
+      "To collect rainwater",
+      "To support the roof directly"
+    ],
+    "engineering_explanation": "The pinnacles add vertical load to the buttresses, improving their stability and effectiveness in resisting the lateral thrust from the vaults. The weight helps counteract the outward push of the roof structure.",
+    "fun_facts": [
+      "Took nearly 600 years to complete",
+      "Features 3,400 statues and 135 spires",
+      "Built from pink-white Candoglia marble",
+      "The Madonnina statue on the highest spire is Milan's symbol"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "chartres-cathedral",
+    "name": "Chartres Cathedral",
+    "image_url": "/images/chartres-cathedral.jpg",
+    "style": "Gothic",
+    "style_distractors": [
+      "Romanesque",
+      "Early Gothic",
+      "High Gothic"
+    ],
+    "era": "1194-1220",
+    "style_explanation": "Represents the peak of French High Gothic. Famous for its stained glass, flying buttresses, and harmonious proportions. The rapid construction created remarkable stylistic unity.",
+    "engineering_question": "What structural advantage did the pointed arch give Gothic builders?",
+    "engineering_answer": "More efficient transfer of weight downward rather than outward",
+    "engineering_distractors": [
+      "Lighter weight than round arches",
+      "Easier to construct",
+      "Better acoustic properties"
+    ],
+    "engineering_explanation": "Pointed arches direct forces more vertically than round arches, reducing lateral thrust. This allows for taller structures with less massive supports and enables the use of flying buttresses to handle remaining lateral forces.",
+    "fun_facts": [
+      "Retains most of its original 13th-century stained glass - about 152 windows",
+      "The labyrinth on the floor was used for meditative walking",
+      "Two mismatched towers - one from 1134, one from 1513",
+      "Miraculously survived both World Wars intact"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "parthenon",
+    "name": "Parthenon",
+    "image_url": "/images/parthenon.jpg",
+    "style": "Ancient Greek",
+    "style_distractors": [
+      "Roman",
+      "Neoclassical",
+      "Hellenistic"
+    ],
+    "era": "447-432 BC",
+    "style_explanation": "The pinnacle of Doric temple design. Features post-and-lintel construction, subtle optical refinements (entasis), and sculptural decoration. Represents Greek ideals of harmony, proportion, and mathematical perfection.",
+    "engineering_question": "How do ancient Greek temples like the Parthenon support their roofs?",
+    "engineering_answer": "Post-and-lintel system with columns supporting horizontal beams",
+    "engineering_distractors": [
+      "Arch and vault system",
+      "Cantilever beams",
+      "Truss structures"
+    ],
+    "engineering_explanation": "Greek temples use simple compression: vertical columns support horizontal architraves (lintels). Each stone beam spans from column to column. This limits span distances but creates a clear, rational structural expression.",
+    "fun_facts": [
+      "Columns lean slightly inward and have subtle bulges (entasis) for optical correction",
+      "The stylobate curves upward in the center - nothing is perfectly straight",
+      "Originally painted in bright colors - red, blue, and gold",
+      "Served as treasury, church, and mosque at various times"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "temple-hephaestus",
+    "name": "Temple of Hephaestus",
+    "image_url": "/images/temple-hephaestus.jpg",
+    "style": "Ancient Greek",
+    "style_distractors": [
+      "Ionic",
+      "Corinthian",
+      "Roman"
+    ],
+    "era": "449-415 BC",
+    "style_explanation": "Best-preserved Doric temple in Greece. Shows classic Greek proportions with 6 columns on the facade and 13 on the sides. Demonstrates the refinement of the Doric order in the High Classical period.",
+    "engineering_question": "What distinguishes Doric columns from Ionic columns?",
+    "engineering_answer": "Doric columns have no base and simpler capitals",
+    "engineering_distractors": [
+      "Doric columns are taller",
+      "Doric columns are fluted",
+      "Doric columns have decorative scrolls"
+    ],
+    "engineering_explanation": "Doric is the simplest and most robust of the Greek orders. Columns sit directly on the stylobate without a base, and have plain circular capitals. Ionic columns have bases and capitals with spiral scrolls (volutes).",
+    "fun_facts": [
+      "More complete than the Parthenon, retaining its roof",
+      "Converted to a Greek Orthodox church in the 7th century AD",
+      "Never fully completed - some decorative elements were left unfinished",
+      "Dedicated to Hephaestus, god of metalworking and craftsmen"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "erechtheion",
+    "name": "Erechtheion",
+    "image_url": "/images/erechtheion.jpg",
+    "style": "Ancient Greek",
+    "style_distractors": [
+      "Doric",
+      "Corinthian",
+      "Hellenistic"
+    ],
+    "era": "421-406 BC",
+    "style_explanation": "Exceptional Ionic temple with irregular plan. Famous for the Porch of the Caryatids where female figures serve as columns. Shows Greek mastery of the Ionic order and adaptation to difficult terrain.",
+    "engineering_question": "How do the Caryatids function structurally?",
+    "engineering_answer": "As load-bearing columns supporting the entablature",
+    "engineering_distractors": [
+      "As decorative elements only",
+      "As buttresses pushing outward",
+      "As tension members"
+    ],
+    "engineering_explanation": "The Caryatids work exactly like columns, transferring the weight of the roof and entablature down through their bodies to the foundation. The sculptural form follows the structural function - they stand vertically in compression.",
+    "fun_facts": [
+      "Built on a sloped site with multiple levels",
+      "Housed sacred olive wood statue of Athena",
+      "One Caryatid is in the British Museum - the rest are copies",
+      "The irregular plan accommodated multiple sacred sites"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "temple-apollo-delphi",
+    "name": "Temple of Apollo at Delphi",
+    "image_url": "/images/temple-apollo-delphi.jpg",
+    "style": "Ancient Greek",
+    "style_distractors": [
+      "Ionic",
+      "Hellenistic",
+      "Archaic"
+    ],
+    "era": "370-330 BC",
+    "style_explanation": "Classic Doric temple at the most important oracle site in ancient Greece. Though now in ruins, it demonstrates typical Greek sacred architecture with 6 by 15 columns and traditional proportions.",
+    "engineering_question": "Why were Greek temples built on high ground?",
+    "engineering_answer": "For visibility, sacred significance, and structural stability",
+    "engineering_distractors": [
+      "To avoid flooding only",
+      "For defense purposes",
+      "To reduce construction costs"
+    ],
+    "engineering_explanation": "High ground provided well-drained, stable foundations for heavy stone structures. It also made temples visible from afar (important for civic pride) and symbolically closer to the gods. The elevated platform (stereobate) also protected against moisture.",
+    "fun_facts": [
+      "Home of the famous Oracle of Delphi",
+      "Motto 'Know Thyself' was inscribed at the entrance",
+      "Destroyed by earthquake in 373 BC and rebuilt",
+      "Now only six columns remain standing"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "temple-zeus-olympia",
+    "name": "Temple of Zeus at Olympia",
+    "image_url": "/images/temple-zeus-olympia.jpg",
+    "style": "Ancient Greek",
+    "style_distractors": [
+      "Ionic",
+      "Hellenistic",
+      "Archaic"
+    ],
+    "era": "470-456 BC",
+    "style_explanation": "Housed one of the Seven Wonders - the massive chryselephantine statue of Zeus by Phidias. Though now ruined, it was one of the largest Doric temples and set standards for Classical proportions.",
+    "engineering_question": "What challenge did Greek builders face with post-and-lintel construction?",
+    "engineering_answer": "Limited span - stone beams break under their own weight beyond about 5-6 meters",
+    "engineering_distractors": [
+      "Columns sinking into soft ground",
+      "Wind resistance on tall structures",
+      "Thermal expansion of marble"
+    ],
+    "engineering_explanation": "Stone is strong in compression but weak in tension. Horizontal stone beams develop tension stress on their bottom surface. Beyond certain spans, beams break under their own weight - limiting the spacing between columns.",
+    "fun_facts": [
+      "Hosted the Olympic Games for nearly 12 centuries",
+      "The statue of Zeus was about 12 meters tall",
+      "Columns are over 10 meters tall and 2 meters in diameter",
+      "Earthquake destroyed most of the structure in the 6th century AD"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "pantheon-rome",
+    "name": "Pantheon",
+    "image_url": "/images/pantheon-rome.jpg",
+    "style": "Ancient Roman",
+    "style_distractors": [
+      "Greek",
+      "Byzantine",
+      "Neoclassical"
+    ],
+    "era": "126 AD",
+    "style_explanation": "Revolutionary Roman concrete dome combined with Greek-style portico. The dome was the world's largest for over 1,300 years. Demonstrates Roman engineering genius and synthesis of Greek and Roman forms.",
+    "engineering_question": "How does the Pantheon's dome support itself?",
+    "engineering_answer": "Progressively lighter materials toward the top and oculus opening",
+    "engineering_distractors": [
+      "Steel reinforcement",
+      "Flying buttresses",
+      "Internal wooden framework"
+    ],
+    "engineering_explanation": "The dome uses concrete with progressively lighter aggregate - from heavy travertine at the base to lightweight pumice at the crown. The oculus (opening) reduces weight at the weakest point. Stepped rings on the exterior also reduce weight.",
+    "fun_facts": [
+      "The dome is exactly as wide as it is tall - a perfect hemisphere",
+      "The oculus is 27 feet wide and open to weather",
+      "In continuous use for 2000 years",
+      "Raphael is buried here"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "colosseum",
+    "name": "Colosseum",
+    "image_url": "/images/colosseum.jpg",
+    "style": "Ancient Roman",
+    "style_distractors": [
+      "Greek",
+      "Byzantine",
+      "Renaissance"
+    ],
+    "era": "70-80 AD",
+    "style_explanation": "Monumental amphitheater showcasing Roman concrete and arch technology. The facade displays all three Greek orders stacked: Doric, Ionic, and Corinthian. Revolutionary use of repeated arches for structural efficiency.",
+    "engineering_question": "What structural system allows the Colosseum to span such large spaces?",
+    "engineering_answer": "Concrete barrel vaults and groin vaults",
+    "engineering_distractors": [
+      "Post-and-lintel beams",
+      "Steel trusses",
+      "Wooden roof structure"
+    ],
+    "engineering_explanation": "Roman concrete vaults create curved structures that work in pure compression, channeling forces to supporting piers. Barrel vaults span corridors while groin vaults (two barrel vaults intersecting) cover larger areas. The arch shape is naturally stable.",
+    "fun_facts": [
+      "Could seat 50,000-80,000 spectators",
+      "Had a retractable awning (velarium) operated by sailors",
+      "The hypogeum beneath the arena housed animals and gladiators",
+      "Earthquakes have damaged it more than human destruction"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "roman-forum",
+    "name": "Roman Forum (Temple of Saturn)",
+    "image_url": "/images/roman-forum.jpg",
+    "style": "Ancient Roman",
+    "style_distractors": [
+      "Greek",
+      "Etruscan",
+      "Imperial"
+    ],
+    "era": "497 BC - 4th century AD",
+    "style_explanation": "Complex of temples showing Roman adoption and adaptation of Greek orders. The standing columns of Temple of Saturn show Roman use of the Ionic order with characteristic heavy proportions.",
+    "engineering_question": "How did Romans improve on Greek column construction?",
+    "engineering_answer": "Used concrete cores with decorative stone facing",
+    "engineering_distractors": [
+      "Made columns from single pieces of stone",
+      "Used wooden columns",
+      "Invented the Corinthian order"
+    ],
+    "engineering_explanation": "While Greeks carved columns from individual stone drums, Romans often built columns with concrete or rubble cores, facing them with decorative marble. This was faster, cheaper, and sometimes stronger, though less 'pure' by Greek standards.",
+    "fun_facts": [
+      "The Forum was the center of Roman public life for a millennium",
+      "The Temple of Saturn held Rome's treasury",
+      "Excavations began in 1788 and continue today",
+      "Was used as a quarry for building materials in the Middle Ages"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "maison-carree",
+    "name": "Maison Carr\u00e9e",
+    "image_url": "/images/maison-carree.jpg",
+    "style": "Ancient Roman",
+    "style_distractors": [
+      "Greek",
+      "Augustan",
+      "Neoclassical"
+    ],
+    "era": "16 BC",
+    "style_explanation": "Best-preserved Roman temple, showing the Roman version of Greek Corinthian style. Built on a high podium with frontal emphasis - distinctly Roman features. Inspired countless neoclassical buildings.",
+    "engineering_question": "What distinguishes Roman temples from Greek temples?",
+    "engineering_answer": "High podium with frontal stairs and deeper portico",
+    "engineering_distractors": [
+      "Use of domes exclusively",
+      "Absence of columns",
+      "Circular plans only"
+    ],
+    "engineering_explanation": "Roman temples emphasize the front facade with a deep porch and are raised on a high platform (podium) with frontal stairs. Greek temples sit on lower stepped platforms accessible from all sides. This reflects different religious practices and urban integration.",
+    "fun_facts": [
+      "Survived because it was converted to a church in the 4th century",
+      "Thomas Jefferson used it as a model for Virginia State Capitol",
+      "Inscription honors Augustus's adopted sons who died young",
+      "Name means 'square house' though it's actually rectangular"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "temple-vesta",
+    "name": "Temple of Vesta",
+    "image_url": "/images/temple-vesta.jpg",
+    "style": "Ancient Roman",
+    "style_distractors": [
+      "Greek Tholos",
+      "Byzantine",
+      "Etruscan"
+    ],
+    "era": "191 BC (rebuilt multiple times)",
+    "style_explanation": "Unusual circular temple (tholos) design in the Forum. The round plan reflects the sacred fire hearth it housed. Shows Roman adaptation of Greek Corinthian order for religious purposes.",
+    "engineering_question": "Why were circular temples structurally advantageous?",
+    "engineering_answer": "No corner stress concentrations and even load distribution",
+    "engineering_distractors": [
+      "Easier to build than rectangular",
+      "Required less material",
+      "Better acoustics"
+    ],
+    "engineering_explanation": "Circular structures distribute loads evenly around the perimeter with no weak corners. The ring of columns supports the circular entablature uniformly. This was particularly useful for concrete dome construction the Romans excelled at.",
+    "fun_facts": [
+      "Sacred flame tended by Vestal Virgins was never allowed to go out",
+      "If the flame died, it was seen as a terrible omen",
+      "Only three columns remain of the original 20",
+      "Vestal Virgins lived in the adjacent House of Vestal Virgins"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "palazzo-farnese",
+    "name": "Palazzo Farnese",
+    "image_url": "/images/palazzo-farnese.jpg",
+    "style": "Renaissance",
+    "style_distractors": [
+      "Baroque",
+      "Mannerist",
+      "Neoclassical"
+    ],
+    "era": "1517-1589",
+    "style_explanation": "The most imposing Renaissance palace in Rome. Designed by Antonio da Sangallo and completed by Michelangelo. Features classical proportions, rusticated base, and harmonious facade organization that influenced countless later buildings.",
+    "engineering_question": "What structural system do Renaissance palaces use?",
+    "engineering_answer": "Load-bearing masonry walls with timber floor systems",
+    "engineering_distractors": [
+      "Steel frame with masonry cladding",
+      "Concrete frame",
+      "Post-and-beam throughout"
+    ],
+    "engineering_explanation": "Renaissance buildings use thick stone or brick load-bearing walls that support wooden floor joists and roof trusses. Windows are limited by the need for wall structure. Interior courtyard arcades may use arches for wider spans.",
+    "fun_facts": [
+      "Michelangelo designed the massive cornice and completed the courtyard",
+      "Currently houses the French Embassy in Italy",
+      "Took 72 years to build",
+      "The Carracci Gallery frescoes inside are masterpieces of Baroque art"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "palazzo-pitti",
+    "name": "Palazzo Pitti",
+    "image_url": "/images/palazzo-pitti.jpg",
+    "style": "Renaissance",
+    "style_distractors": [
+      "Baroque",
+      "Mannerist",
+      "Neoclassical"
+    ],
+    "era": "1458-1469",
+    "style_explanation": "Massive Renaissance palace with severe rusticated facade. The original design by Brunelleschi emphasizes power through scale and rough-hewn stone. Later enlarged by the Medici family.",
+    "engineering_question": "What is rustication in Renaissance architecture?",
+    "engineering_answer": "Stone with rough, textured surface and deep joints between blocks",
+    "engineering_distractors": [
+      "Decorative painting to look like stone",
+      "Structural reinforcement technique",
+      "Method of waterproofing walls"
+    ],
+    "engineering_explanation": "Rustication leaves stone surfaces rough or roughly carved, with deeply recessed joints. This creates strong shadow lines and gives an impression of solidity and strength. Often used on ground floors to suggest fortress-like stability.",
+    "fun_facts": [
+      "Originally built for banker Luca Pitti to rival the Medici",
+      "The Medici ironically bought it in 1549",
+      "Houses several important museums today",
+      "The facade is over 200 meters wide after expansions"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "villa-medici",
+    "name": "Villa Medici",
+    "image_url": "/images/villa-medici.jpg",
+    "style": "Renaissance",
+    "style_distractors": [
+      "Baroque",
+      "Mannerist",
+      "Palladian"
+    ],
+    "era": "1564-1580",
+    "style_explanation": "Renaissance villa demonstrating the period's love of classical forms and integration with landscape. The facade uses ancient Roman architectural fragments and shows refined Renaissance detailing.",
+    "engineering_question": "Why did Renaissance villas emphasize symmetry?",
+    "engineering_answer": "To reflect humanist ideals of harmony and rational order",
+    "engineering_distractors": [
+      "To simplify construction",
+      "Building codes required it",
+      "To reduce costs"
+    ],
+    "engineering_explanation": "Renaissance architects saw symmetry and mathematical proportion as reflecting divine order and human reason. This was influenced by rediscovered classical texts like Vitruvius. Symmetry also simplified construction and created psychological comfort.",
+    "fun_facts": [
+      "Houses the French Academy in Rome since 1803",
+      "Galileo was tried here by the Inquisition in 1633",
+      "The gardens offer stunning views over Rome",
+      "Features an impressive collection of ancient Roman sculptures"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "tempietto",
+    "name": "Tempietto",
+    "image_url": "/images/tempietto.jpg",
+    "style": "Renaissance",
+    "style_distractors": [
+      "Ancient Roman",
+      "Baroque",
+      "Neoclassical"
+    ],
+    "era": "1502-1510",
+    "style_explanation": "Bramante's perfect Renaissance centralized building. Combines Roman circular temple form with Renaissance mathematical harmony. A miniature masterpiece that influenced architecture for centuries.",
+    "engineering_question": "Why did Renaissance architects favor centralized plans?",
+    "engineering_answer": "They embodied perfect geometric form and divine harmony",
+    "engineering_distractors": [
+      "They were cheaper to build",
+      "They provided better structural stability",
+      "They held more people"
+    ],
+    "engineering_explanation": "Centralized plans (circular, square with central dome) were seen as perfect forms reflecting divine creation and mathematical harmony. They concentrated attention on a central point rather than directing movement along an axis - ideal for commemorative structures.",
+    "fun_facts": [
+      "Marks the spot where St. Peter was martyred",
+      "Perfectly proportioned with a 1:2 ratio of parts",
+      "Inspired St. Peter's Basilica and countless other buildings",
+      "The balustrade and crypt were added later"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "palazzo-rucellai",
+    "name": "Palazzo Rucellai",
+    "image_url": "/images/palazzo-rucellai.jpg",
+    "style": "Renaissance",
+    "style_distractors": [
+      "Gothic",
+      "Baroque",
+      "Medieval"
+    ],
+    "era": "1446-1451",
+    "style_explanation": "One of the first true Renaissance palaces, designed by Leon Battista Alberti. Shows systematic application of classical orders (pilasters) to organize the facade - a revolutionary approach that defined Renaissance palace design.",
+    "engineering_question": "What are pilasters and what purpose do they serve?",
+    "engineering_answer": "Flat columns projecting slightly from a wall, primarily decorative",
+    "engineering_distractors": [
+      "Structural buttresses",
+      "Load-bearing columns",
+      "Foundations for upper floors"
+    ],
+    "engineering_explanation": "Pilasters are essentially flat columns attached to a wall. They follow the same proportional systems as freestanding columns but are primarily decorative, articulating the wall surface. They may have minimal structural function but mainly organize the facade visually.",
+    "fun_facts": [
+      "First palace to use superimposed classical orders on a facade",
+      "Alberti never visited the site - Giovanni Rucellai supervised",
+      "Originally had an open loggia on ground floor",
+      "Influenced palace design throughout Europe"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "church-gesu",
+    "name": "Church of the Ges\u00f9",
+    "image_url": "/images/church-gesu.jpg",
+    "style": "Baroque",
+    "style_distractors": [
+      "Renaissance",
+      "Mannerist",
+      "Rococo"
+    ],
+    "era": "1568-1584",
+    "style_explanation": "Mother church of the Jesuit order and template for Counter-Reformation churches. Features dramatic facade, single nave for preaching, and elaborate interior decoration. Bridges Late Renaissance and Baroque styles.",
+    "engineering_question": "Why do Baroque churches favor single wide naves over aisles?",
+    "engineering_answer": "Better acoustics and sight lines for preaching and drama",
+    "engineering_distractors": [
+      "Cheaper to build",
+      "More structurally stable",
+      "Required less land"
+    ],
+    "engineering_explanation": "The Counter-Reformation emphasized preaching and engaging congregations emotionally. A single wide nave with side chapels puts everyone close to the pulpit with clear views. This required wider vaulting spans but was achievable with improved engineering.",
+    "fun_facts": [
+      "St. Ignatius of Loyola, founder of the Jesuits, is buried here",
+      "The illusionistic ceiling fresco creates an 'opening' to heaven",
+      "Became the model for Jesuit churches worldwide",
+      "The facade influenced church design for 200 years"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "st-peters-basilica",
+    "name": "St. Peter's Basilica",
+    "image_url": "/images/st-peters-basilica.jpg",
+    "style": "Baroque",
+    "style_distractors": [
+      "Renaissance",
+      "Neoclassical",
+      "Byzantine"
+    ],
+    "era": "1506-1626",
+    "style_explanation": "World's largest church, designed by Bramante, Michelangelo, and Bernini. The facade and colonnade are Baroque while the dome shows Renaissance ideals. Represents the culmination of both periods and the power of the Catholic Church.",
+    "engineering_question": "How does Michelangelo's dome transfer its enormous weight?",
+    "engineering_answer": "Through chains and ribs to massive piers below",
+    "engineering_distractors": [
+      "Through flying buttresses",
+      "Through the exterior walls",
+      "Through internal wooden framework"
+    ],
+    "engineering_explanation": "The dome has a double shell with internal ribs that channel weight to the drum and then to four massive piers. Iron chains embedded in the lower portions resist the outward thrust. The system is similar to the Pantheon but on a much larger scale.",
+    "fun_facts": [
+      "The dome is 136 meters tall - taller than any ancient building",
+      "Bernini's colonnade can hold 300,000 people",
+      "Took 120 years to build",
+      "Raphael and Michelangelo are among those buried here"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "palace-versailles",
+    "name": "Palace of Versailles",
+    "image_url": "/images/palace-versailles.jpg",
+    "style": "Baroque",
+    "style_distractors": [
+      "Rococo",
+      "Neoclassical",
+      "Renaissance"
+    ],
+    "era": "1664-1715",
+    "style_explanation": "Epitome of Baroque grandeur and absolutist power. Enormous scale, dramatic facades, and integration of architecture with gardens. The Hall of Mirrors represents Baroque love of spectacle, light, and theatrical effects.",
+    "engineering_question": "What structural innovation allowed Versailles' enormous windows?",
+    "engineering_answer": "Load-bearing interior walls freeing exterior walls for glazing",
+    "engineering_distractors": [
+      "Steel frame construction",
+      "Cantilevered floors",
+      "Glass-reinforced masonry"
+    ],
+    "engineering_explanation": "By moving structural support to interior walls and piers, the exterior walls could be opened up with large windows. The multi-story facade used repeated elements to distribute weight to strategic points rather than continuous load-bearing walls.",
+    "fun_facts": [
+      "The Hall of Mirrors is 73 meters long with 357 mirrors",
+      "Louis XIV moved the entire French court here",
+      "The Treaty of Versailles ending WWI was signed here",
+      "Gardens cover 800 hectares with 50 fountains"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "karlskirche",
+    "name": "Karlskirche",
+    "image_url": "/images/karlskirche.jpg",
+    "style": "Baroque",
+    "style_distractors": [
+      "Neoclassical",
+      "Rococo",
+      "Byzantine"
+    ],
+    "era": "1716-1737",
+    "style_explanation": "Viennese Baroque masterpiece combining elements from multiple traditions: Roman temple portico, Turkish minarets, Baroque dome. Shows Baroque synthesis and eclecticism at its height.",
+    "engineering_question": "How does the Karlskirche's dome compare structurally to the Pantheon?",
+    "engineering_answer": "Similar dome on drum but with external buttressing and lighter construction",
+    "engineering_distractors": [
+      "Identical construction methods",
+      "Made entirely of wood",
+      "Uses steel reinforcement"
+    ],
+    "engineering_explanation": "Like the Pantheon, it's a large masonry dome, but 18th-century engineering allowed a lighter structure. The oval plan and drum with buttresses permit larger windows. The dome is double-shelled like St. Peter's rather than the Pantheon's solid concrete.",
+    "fun_facts": [
+      "Built after a plague epidemic to honor St. Charles Borromeo",
+      "The flanking columns tell the story of St. Charles's life",
+      "The dome fresco depicts St. Charles being received into heaven",
+      "Elevator now allows visitors to view frescoes up close"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "san-carlo",
+    "name": "San Carlo alle Quattro Fontane",
+    "image_url": "/images/san-carlo.jpg",
+    "style": "Baroque",
+    "style_distractors": [
+      "Renaissance",
+      "Rococo",
+      "Mannerist"
+    ],
+    "era": "1638-1641",
+    "style_explanation": "Borromini's masterpiece of Roman Baroque. Tiny church with complex curved geometry, innovative spatial planning, and dynamic facade. Shows Baroque pushing beyond Renaissance rationality into emotional and spatial complexity.",
+    "engineering_question": "What structural principle allows Baroque curved walls?",
+    "engineering_answer": "Curved masonry acts like a continuous arch in compression",
+    "engineering_distractors": [
+      "Internal steel framework",
+      "Wooden formwork left in place",
+      "Thicker walls than straight ones"
+    ],
+    "engineering_explanation": "Curved walls in plan act structurally like vertical arches or shells, with forces resolved through the curve. This can be more efficient than straight walls for certain loads, and allows dramatic spatial effects while maintaining structural integrity.",
+    "fun_facts": [
+      "So small it could fit inside one of St. Peter's piers",
+      "The dome uses an unusual coffered pattern of crosses and octagons",
+      "Borromini's rival Bernini lived nearby",
+      "Every element curves - walls, floor plan, even the dome"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "st-peters-basilica",
+    "name": "St. Peter's Basilica",
+    "image_url": "/images/st-peters-basilica.jpg",
+    "style": "Baroque",
+    "style_distractors": [
+      "Renaissance",
+      "Neoclassical",
+      "Byzantine"
+    ],
+    "era": "1506-1626",
+    "style_explanation": "St. Peter's Basilica exemplifies Baroque architecture through its dramatic scale, theatrical interior spaces, and ornate decoration designed to inspire awe. The building combines classical elements with dynamic movement, elaborate sculptures, and rich materials that create an emotionally powerful religious experience.",
+    "engineering_question": "What innovative structural element allows Michelangelo's dome to span such a massive space?",
+    "engineering_answer": "Double-shell construction",
+    "engineering_distractors": [
+      "Flying buttresses",
+      "Steel framework",
+      "Concrete reinforcement"
+    ],
+    "engineering_explanation": "The dome uses a revolutionary double-shell design with an inner structural dome and an outer decorative shell, distributing weight more effectively than previous single-shell domes. This innovation allowed for the creation of one of the largest domes in the world while maintaining structural integrity.",
+    "fun_facts": [
+      "The basilica can hold up to 60,000 people and covers 23,000 square meters",
+      "Michelangelo designed the dome but died before its completion in 1590",
+      "The bronze baldachin over the altar is 29 meters tall and was made from bronze stripped from the Pantheon",
+      "It took 120 years to complete and involved architects including Bramante, Michelangelo, and Bernini"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "palace-of-versailles",
+    "name": "Palace of Versailles",
+    "image_url": "/images/palace-of-versailles.jpg",
+    "style": "Baroque",
+    "style_distractors": [
+      "Rococo",
+      "Neoclassical",
+      "Renaissance"
+    ],
+    "era": "1661-1715",
+    "style_explanation": "The Palace of Versailles exemplifies Baroque architecture through its grandiose scale, dramatic use of light and shadow, and ornate decorative elements. The palace features the characteristic Baroque emphasis on theatrical magnificence, with elaborate facades, sculptural details, and the famous Hall of Mirrors showcasing the style's love for opulence and visual spectacle.",
+    "engineering_question": "What innovative water system was used to supply Versailles' fountains?",
+    "engineering_answer": "Machine de Marly",
+    "engineering_distractors": [
+      "Roman aqueducts",
+      "Artesian wells",
+      "Steam pumps"
+    ],
+    "engineering_explanation": "The Machine de Marly was a massive hydraulic pumping system that lifted water from the Seine River to supply Versailles' extensive gardens and fountains. This engineering marvel used 14 enormous water wheels and a complex system of pumps to move water uphill over several miles, representing one of the most ambitious hydraulic projects of the 17th century.",
+    "fun_facts": [
+      "The Hall of Mirrors contains 357 mirrors, which were incredibly expensive luxuries at the time",
+      "The palace has 2,300 rooms, 1,200 fireplaces, and 67 staircases",
+      "Louis XIV moved the entire French court to Versailles, housing up to 20,000 courtiers and servants",
+      "The palace gardens cover 800 hectares and contain 50 fountains and 620 water jets"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "church-sant-ivo-alla-sapienza",
+    "name": "Church of Sant'Ivo alla Sapienza",
+    "image_url": "/images/church-sant-ivo-alla-sapienza.jpg",
+    "style": "Baroque",
+    "style_distractors": [
+      "Renaissance",
+      "Mannerist",
+      "Rococo"
+    ],
+    "era": "1642-1660",
+    "style_explanation": "This church exemplifies Baroque architecture through its dramatic spiral dome crowned by a twisting lantern, complex geometric ground plan, and dynamic interplay of concave and convex surfaces. The building demonstrates the Baroque emphasis on movement, theatrical effects, and innovative spatial arrangements that create an emotionally engaging religious experience.",
+    "engineering_question": "What innovative structural feature crowns the church's unique dome?",
+    "engineering_answer": "Spiral lantern",
+    "engineering_distractors": [
+      "Flying buttresses",
+      "Pendentive system",
+      "Ribbed vaulting"
+    ],
+    "engineering_explanation": "Borromini designed a revolutionary spiral lantern that twists upward from the dome, creating both structural stability and visual drama. This ingenious solution allows the complex geometry of the star-shaped interior to transition smoothly to the circular drum, while the spiral form distributes weight evenly around the dome's perimeter.",
+    "fun_facts": [
+      "The church's ground plan is based on two interlocking triangles forming a six-pointed star",
+      "Borromini incorporated symbolic elements representing the bee emblem of Pope Urban VIII throughout the design",
+      "The spiral lantern was inspired by ancient descriptions of the Tower of Babel and Trajan's Column",
+      "The church served as the chapel for the University of Rome and was built within an existing Renaissance courtyard"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "wurzburg-residence",
+    "name": "W\u00fcrzburg Residence",
+    "image_url": "/images/wurzburg-residence.jpg",
+    "style": "Baroque",
+    "style_distractors": [
+      "Rococo",
+      "Neoclassical",
+      "Renaissance"
+    ],
+    "era": "1720-1744",
+    "style_explanation": "The W\u00fcrzburg Residence exemplifies Baroque architecture through its grand scale, dramatic curved facades, and ornate decorative elements. The building features the characteristic Baroque emphasis on movement and theatricality, with elaborate stucco work and frescoed interiors that create a sense of overwhelming grandeur.",
+    "engineering_question": "What innovative structural feature allows the grand staircase to support Tiepolo's massive ceiling fresco without central columns?",
+    "engineering_answer": "Unsupported vault construction",
+    "engineering_distractors": [
+      "Flying buttresses",
+      "Steel frame reinforcement",
+      "Composite arch system"
+    ],
+    "engineering_explanation": "Balthasar Neumann engineered an innovative unsupported vault over the grand staircase, creating one of the largest ceiling frescoes in the world without interrupting columns. This masterpiece of structural engineering distributes the enormous weight through carefully calculated stone vaulting and wall supports.",
+    "fun_facts": [
+      "Contains the world's largest ceiling fresco by Giovanni Battista Tiepolo, covering over 7,000 square feet",
+      "Napoleon called it 'the nicest parsonage in Europe' after visiting in 1806",
+      "The building survived WWII bombing that destroyed much of W\u00fcrzburg, though it suffered significant damage",
+      "It houses over 300 rooms and was the residence of the Prince-Bishops of W\u00fcrzburg"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "karlskirche-vienna",
+    "name": "Karlskirche Vienna",
+    "image_url": "/images/karlskirche-vienna.jpg",
+    "style": "Baroque",
+    "style_distractors": [
+      "Rococo",
+      "Neoclassical",
+      "Byzantine"
+    ],
+    "era": "1716-1737",
+    "style_explanation": "Karlskirche exemplifies Baroque architecture through its dramatic oval dome, elaborate sculptural decoration, and dynamic interplay of curved and angular forms. The building's theatrical facade with twin triumphal columns and ornate portico creates the characteristic Baroque sense of movement and grandeur.",
+    "engineering_question": "What innovative structural element supports Karlskirche's large oval dome?",
+    "engineering_answer": "Elliptical drum system",
+    "engineering_distractors": [
+      "Flying buttresses",
+      "Pendentive supports",
+      "Steel framework"
+    ],
+    "engineering_explanation": "The church features an innovative elliptical drum that distributes the weight of the oval dome more effectively than traditional circular drums. This engineering solution allowed Fischer von Erlach to create the distinctive elongated dome shape while maintaining structural integrity.",
+    "fun_facts": [
+      "The church was built to fulfill Emperor Charles VI's vow during the 1713 plague epidemic",
+      "The two triumphal columns flanking the entrance are inspired by Trajan's Column in Rome",
+      "Johann Bernhard Fischer von Erlach died during construction and his son completed the project",
+      "The dome's interior features a massive fresco covering over 1,250 square meters"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "taj-mahal",
+    "name": "Taj Mahal",
+    "image_url": "/images/taj-mahal.jpg",
+    "style": "Islamic",
+    "style_distractors": [
+      "Baroque",
+      "Byzantine",
+      "Romanesque"
+    ],
+    "era": "1632-1653",
+    "style_explanation": "The Taj Mahal exemplifies Islamic architecture through its prominent onion dome, four minarets, pointed arches, and intricate geometric patterns. The building features classic Islamic elements including decorative calligraphy, pietra dura inlay work, and symmetrical design that reflects the Islamic concept of paradise.",
+    "engineering_question": "What innovative foundation system was used to support the Taj Mahal on the soft riverbank soil?",
+    "engineering_answer": "Deep well foundation",
+    "engineering_distractors": [
+      "Floating concrete slabs",
+      "Stone pillar system",
+      "Wooden pile foundation"
+    ],
+    "engineering_explanation": "The Taj Mahal sits on a deep well foundation system with timber-filled wells that extend down to the water table. This innovative approach prevented the massive structure from sinking into the soft alluvial soil near the Yamuna River.",
+    "fun_facts": [
+      "The white marble changes color throughout the day, appearing pinkish at dawn and golden at sunset",
+      "It took over 20,000 workers and 1,000 elephants to complete construction",
+      "The central dome is actually a double dome - an inner dome and a taller outer dome for visual impact",
+      "The four minarets lean slightly outward so they would fall away from the tomb in case of an earthquake"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "alhambra",
+    "name": "Alhambra",
+    "image_url": "/images/alhambra.jpg",
+    "style": "Islamic",
+    "style_distractors": [
+      "Moorish Revival",
+      "Byzantine",
+      "Romanesque"
+    ],
+    "era": "1238-1358",
+    "style_explanation": "The Alhambra exemplifies Islamic architecture through its intricate geometric patterns, horseshoe arches, and elaborate muqarnas (honeycomb vaulting). The complex features characteristic Islamic elements like courtyards with reflecting pools, detailed calligraphic inscriptions, and the seamless integration of interior and exterior spaces.",
+    "engineering_question": "What innovative water system feature allows the Alhambra's fountains to function without pumps?",
+    "engineering_answer": "Gravity-fed aqueducts",
+    "engineering_distractors": [
+      "Underground springs",
+      "Manual water wheels",
+      "Steam-powered pumps"
+    ],
+    "engineering_explanation": "The Alhambra uses an ingenious gravity-fed water system that channels water from the Darro River through a series of aqueducts and channels. This system provides constant water pressure for the palace's numerous fountains and pools without requiring mechanical pumps.",
+    "fun_facts": [
+      "The name 'Alhambra' comes from Arabic 'Al-Hamra' meaning 'the red one' due to its reddish walls",
+      "The Court of Lions contains 124 white marble columns supporting delicate arches",
+      "Washington Irving lived in the palace for several months in 1829, writing 'Tales of the Alhambra'",
+      "The complex contains over 9,000 inscriptions, many being poems praising the palace itself"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "blue-mosque",
+    "name": "Blue Mosque",
+    "image_url": "/images/blue-mosque.jpg",
+    "style": "Islamic",
+    "style_distractors": [
+      "Byzantine",
+      "Ottoman Baroque",
+      "Moorish"
+    ],
+    "era": "1609-1616",
+    "style_explanation": "The Blue Mosque exemplifies classical Ottoman Islamic architecture with its cascading domes, six slender minarets, and extensive use of traditional Islamic geometric patterns. The interior features over 20,000 hand-painted blue Iznik tiles and intricate calligraphy, creating the quintessential Islamic sacred space.",
+    "engineering_question": "How many main domes support the Blue Mosque's primary structural system?",
+    "engineering_answer": "One central dome",
+    "engineering_distractors": [
+      "Three interconnected domes",
+      "Five cascading domes",
+      "Seven interlocking domes"
+    ],
+    "engineering_explanation": "The Blue Mosque uses a single massive central dome supported by four semi-domes and smaller subsidiary domes in a hierarchical system. This engineering approach, inherited from Byzantine architecture, distributes the enormous weight of the central dome through a series of arches and pillars to create the vast interior space.",
+    "fun_facts": [
+      "It's the only mosque in Istanbul with six minarets, which initially caused controversy as it matched Mecca's mosque",
+      "The mosque gets its nickname from the 20,000+ blue Iznik tiles decorating its interior walls",
+      "Sultan Ahmed I was only 19 years old when construction began and died just one year after its completion",
+      "The mosque can accommodate up to 10,000 worshippers at once during prayer times"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "great-mosque-cordoba",
+    "name": "Great Mosque of Cordoba",
+    "image_url": "/images/great-mosque-cordoba.jpg",
+    "style": "Islamic",
+    "style_distractors": [
+      "Moorish Revival",
+      "Byzantine",
+      "Mud\u00e9jar"
+    ],
+    "era": "784-987",
+    "style_explanation": "The Great Mosque of Cordoba exemplifies Islamic architecture through its distinctive horseshoe arches, geometric patterns, and mihrab decorated with intricate mosaics. The building's forest of columns and double-tiered arcades create the repetitive, infinite space characteristic of Islamic sacred architecture.",
+    "engineering_question": "What innovative structural system supports the mosque's roof at great height?",
+    "engineering_answer": "Double-tiered arches",
+    "engineering_distractors": [
+      "Flying buttresses",
+      "Pendentive domes",
+      "Ribbed vaulting"
+    ],
+    "engineering_explanation": "The mosque uses a revolutionary double-tiered arch system where horseshoe arches support semicircular arches above them. This innovation allowed builders to achieve impressive height while using relatively short columns, many recycled from Roman and Visigothic structures.",
+    "fun_facts": [
+      "Contains over 850 columns made from jasper, onyx, marble, and granite",
+      "Was converted into a cathedral in 1236, creating a unique mosque-cathedral hybrid",
+      "The mihrab is considered one of the most beautiful examples of Islamic art in the world",
+      "Originally built over a Visigothic church dedicated to Saint Vincent"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "dome-of-the-rock",
+    "name": "Dome of the Rock",
+    "image_url": "/images/dome-of-the-rock.jpg",
+    "style": "Islamic",
+    "style_distractors": [
+      "Byzantine",
+      "Romanesque",
+      "Moorish"
+    ],
+    "era": "687-691 CE",
+    "style_explanation": "The Dome of the Rock exemplifies early Islamic architecture with its octagonal plan, elaborate geometric and calligraphic decorations, and prominent central dome. The building combines Byzantine structural techniques with distinctly Islamic decorative elements including intricate mosaics, Arabic inscriptions, and geometric patterns that avoid figurative representation.",
+    "engineering_question": "What structural system supports the Dome of the Rock's central dome?",
+    "engineering_answer": "Double-shell dome construction",
+    "engineering_distractors": [
+      "Flying buttresses",
+      "Pendentive system",
+      "Corbelled arches"
+    ],
+    "engineering_explanation": "The Dome of the Rock uses a double-shell dome construction where an inner wooden dome provides the interior appearance while an outer lead-covered dome protects against weather. This innovative system, supported by a drum resting on an octagonal arcade, allows for both structural efficiency and aesthetic control of interior proportions.",
+    "fun_facts": [
+      "It is one of the oldest surviving Islamic monuments in the world",
+      "The golden dome was originally made of lead and has been rebuilt multiple times",
+      "The interior contains the oldest surviving Arabic inscriptions in architecture",
+      "The octagonal design may have been influenced by nearby Byzantine churches"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hagia-sophia",
+    "name": "Hagia Sophia",
+    "image_url": "/images/hagia-sophia.jpg",
+    "style": "Byzantine",
+    "style_distractors": [
+      "Romanesque",
+      "Gothic",
+      "Ottoman"
+    ],
+    "era": "532-537 CE",
+    "style_explanation": "Hagia Sophia exemplifies Byzantine architecture with its massive central dome, extensive use of mosaics, and fusion of Roman engineering with Christian symbolism. The building features the characteristic Byzantine emphasis on interior space and light, with windows around the dome's base creating an ethereal illumination effect.",
+    "engineering_question": "What innovative structural system allows Hagia Sophia's massive dome to appear to float above the square base?",
+    "engineering_answer": "Pendentives",
+    "engineering_distractors": [
+      "Flying buttresses",
+      "Pointed arches",
+      "Ribbed vaults"
+    ],
+    "engineering_explanation": "Pendentives are curved triangular sections that transition from the square base to the circular dome above. This Byzantine innovation allowed architects to place large domes over rectangular spaces, creating the illusion that the dome floats weightlessly above the structure.",
+    "fun_facts": [
+      "The dome is approximately 102 feet in diameter and rises 180 feet above the floor",
+      "It served as a Christian cathedral for nearly 1,000 years, then as a mosque for 481 years",
+      "The building's acoustics were so perfect that a whisper in one corner could be heard clearly in the opposite corner",
+      "Napoleon called it 'the most beautiful mosque in the world' when he saw it in the early 1800s"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "basilica-of-san-vitale",
+    "name": "Basilica of San Vitale",
+    "image_url": "/images/basilica-of-san-vitale.jpg",
+    "style": "Byzantine",
+    "style_distractors": [
+      "Romanesque",
+      "Early Christian",
+      "Gothic"
+    ],
+    "era": "526-547 CE",
+    "style_explanation": "San Vitale exemplifies Byzantine architecture through its octagonal central plan, elaborate mosaic decorations, and innovative dome construction. The building features the characteristic Byzantine blend of Roman engineering with Eastern Christian liturgical requirements and decorative traditions.",
+    "engineering_question": "What structural system supports San Vitale's central dome?",
+    "engineering_answer": "Eight piers and arches",
+    "engineering_distractors": [
+      "Flying buttresses",
+      "Pendentives on square base",
+      "Wooden trusses"
+    ],
+    "engineering_explanation": "The dome rests on eight massive piers connected by arches, creating an octagonal base that distributes the weight evenly. This innovative system eliminated the need for thick walls while maintaining structural stability and allowing for large windows.",
+    "fun_facts": [
+      "The famous mosaics include portraits of Emperor Justinian and Empress Theodora with their courts",
+      "It served as inspiration for Charlemagne's Palatine Chapel in Aachen",
+      "The building has survived virtually intact for over 1,400 years",
+      "It was designated a UNESCO World Heritage Site in 1996 as part of the Early Christian Monuments of Ravenna"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "basilica-cistern",
+    "name": "Basilica Cistern",
+    "image_url": "/images/basilica-cistern.jpg",
+    "style": "Byzantine",
+    "style_distractors": [
+      "Roman",
+      "Ottoman",
+      "Romanesque"
+    ],
+    "era": "532 CE",
+    "style_explanation": "The Basilica Cistern exemplifies Byzantine engineering with its forest of classical columns supporting groin vaults, creating a mysterious underground basilica-like space. The structure demonstrates the Byzantine mastery of adapting Roman architectural elements for practical infrastructure while creating an almost sacred atmosphere.",
+    "engineering_question": "What type of vaulting system supports the ceiling of the Basilica Cistern?",
+    "engineering_answer": "Groin vaults",
+    "engineering_distractors": [
+      "Barrel vaults",
+      "Ribbed vaults",
+      "Dome vaults"
+    ],
+    "engineering_explanation": "The cistern uses groin vaults formed by the intersection of barrel vaults, supported by 336 marble columns. This vaulting system efficiently distributes the weight while creating maximum storage space for the 80,000 cubic meters of water the cistern could hold.",
+    "fun_facts": [
+      "Known as the 'Sunken Palace' for its cathedral-like atmosphere with dramatic lighting",
+      "Two columns rest on carved Medusa head bases, one upside down and one sideways",
+      "Featured in the James Bond film 'From Russia with Love' (1963)",
+      "Could hold 80,000 cubic meters of water to supply Constantinople's Great Palace"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "chora-church",
+    "name": "Chora Church",
+    "image_url": "/images/chora-church.jpg",
+    "style": "Byzantine",
+    "style_distractors": [
+      "Romanesque",
+      "Gothic",
+      "Armenian"
+    ],
+    "era": "1077-1321",
+    "style_explanation": "The Chora Church exemplifies Byzantine architecture through its central dome, cross-in-square plan, and extensive use of marble revetment and gold-ground mosaics. Its compact proportions and emphasis on interior decoration over external monumentality are characteristic of middle and late Byzantine church design.",
+    "engineering_question": "What structural system supports the church's central dome?",
+    "engineering_answer": "Pendentives and squinches",
+    "engineering_distractors": [
+      "Flying buttresses",
+      "Pointed arches",
+      "Ribbed vaulting"
+    ],
+    "engineering_explanation": "The Chora Church uses the Byzantine system of pendentives and squinches to transition from the square base to the circular dome above. This allows the dome's weight to be distributed evenly onto the supporting walls and piers below.",
+    "fun_facts": [
+      "Contains some of the finest surviving Byzantine mosaics and frescoes from the 14th century",
+      "The name 'Chora' means 'country' or 'land' referring to its original location outside Constantinople's walls",
+      "Was converted to a mosque called Kariye Camii during Ottoman rule",
+      "The parekklesion (side chapel) contains a stunning fresco cycle depicting the Last Judgment"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "cathedral-of-monreale",
+    "name": "Cathedral of Monreale",
+    "image_url": "/images/cathedral-of-monreale.jpg",
+    "style": "Byzantine",
+    "style_distractors": [
+      "Romanesque",
+      "Gothic",
+      "Moorish"
+    ],
+    "era": "1174-1189",
+    "style_explanation": "The Cathedral of Monreale exemplifies Byzantine architecture through its extensive golden mosaics covering over 6,400 square meters, depicting biblical scenes in the traditional Byzantine iconographic style. The building combines Byzantine artistic traditions with Norman structural elements, featuring the characteristic Byzantine emphasis on interior decoration and religious imagery.",
+    "engineering_question": "What structural system supports the cathedral's extensive mosaic program?",
+    "engineering_answer": "Timber roof trusses",
+    "engineering_distractors": [
+      "Stone ribbed vaults",
+      "Concrete domes",
+      "Flying buttresses"
+    ],
+    "engineering_explanation": "The cathedral uses an open timber roof truss system rather than stone vaulting, which was innovative for supporting such extensive mosaic decoration. This wooden framework provided a lighter structural load while creating the necessary wall surfaces for the magnificent Byzantine mosaic program.",
+    "fun_facts": [
+      "Contains one of the largest cycles of Old Testament mosaics in the world",
+      "Built by Norman King William II to rival the palatine chapel in Palermo",
+      "The bronze doors were created by Bonanno Pisano and feature 42 biblical scenes",
+      "The cathedral's cloister contains 228 paired columns, each with unique carved capitals"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "durham-cathedral",
+    "name": "Durham Cathedral",
+    "image_url": "/images/durham-cathedral.jpg",
+    "style": "Romanesque",
+    "style_distractors": [
+      "Gothic",
+      "Norman Gothic",
+      "Early English"
+    ],
+    "era": "1093-1133",
+    "style_explanation": "Durham Cathedral exemplifies Romanesque architecture with its massive stone walls, rounded arches, and sturdy cylindrical pillars. The building features the characteristic thick walls, small windows, and barrel vaulting typical of the Romanesque style, creating a fortress-like appearance that emphasizes strength and solidity.",
+    "engineering_question": "What innovative vaulting technique was first used extensively in Durham Cathedral?",
+    "engineering_answer": "Ribbed vaulting",
+    "engineering_distractors": [
+      "Fan vaulting",
+      "Groin vaulting",
+      "Barrel vaulting"
+    ],
+    "engineering_explanation": "Durham Cathedral was one of the first buildings to use ribbed vaulting extensively, a technique that distributed weight more efficiently than earlier barrel vaults. This innovation allowed for higher ceilings and larger interior spaces while maintaining structural integrity, influencing Gothic architecture that followed.",
+    "fun_facts": [
+      "It houses the shrine of St. Cuthbert, a 7th-century monk whose body is said to remain uncorrupted",
+      "The cathedral was built on a rocky peninsula surrounded by the River Wear, creating a natural fortress",
+      "It served as a filming location for Hogwarts in the Harry Potter films",
+      "The Galilee Chapel was added to the west end because women were forbidden from entering the main cathedral"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "pisa-cathedral",
+    "name": "Pisa Cathedral",
+    "image_url": "/images/pisa-cathedral.jpg",
+    "style": "Romanesque",
+    "style_distractors": [
+      "Gothic",
+      "Byzantine",
+      "Renaissance"
+    ],
+    "era": "1063-1118",
+    "style_explanation": "Pisa Cathedral exemplifies Romanesque architecture with its massive stone construction, rounded arches, and thick walls. The building features characteristic barrel vaulting, sturdy pillars, and small windows that create the heavy, fortress-like appearance typical of the Romanesque style.",
+    "engineering_question": "What innovative structural element allows the cathedral's impressive interior height?",
+    "engineering_answer": "Pointed arches",
+    "engineering_distractors": [
+      "Flying buttresses",
+      "Ribbed vaulting",
+      "Steel framework"
+    ],
+    "engineering_explanation": "The cathedral incorporates early pointed arches alongside traditional rounded Romanesque arches, allowing for greater height and structural stability. This innovative combination predates the full development of Gothic architecture and demonstrates the transitional engineering techniques of the late 11th century.",
+    "fun_facts": [
+      "The cathedral was built using spoils from Pisa's naval victories against Muslim fleets",
+      "Galileo supposedly discovered the principle of pendulum motion by watching the bronze lamp swing in the cathedral",
+      "The building's famous leaning campanile (bell tower) was actually constructed separately and is not part of the main cathedral structure",
+      "The cathedral's facade features four levels of open galleries with intricate geometric patterns inspired by Islamic architecture"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "speyer-cathedral",
+    "name": "Speyer Cathedral",
+    "image_url": "/images/speyer-cathedral.jpg",
+    "style": "Romanesque",
+    "style_distractors": [
+      "Gothic",
+      "Byzantine",
+      "Ottonian"
+    ],
+    "era": "1030-1106",
+    "style_explanation": "Speyer Cathedral exemplifies Romanesque architecture with its massive stone construction, thick walls, and rounded arches throughout the structure. The building features characteristic small windows, sturdy pillars, and barrel vaulting that demonstrate the monumental, fortress-like qualities typical of the Romanesque style.",
+    "engineering_question": "What innovative vaulting system was first used extensively in Speyer Cathedral's nave?",
+    "engineering_answer": "Groin vaults",
+    "engineering_distractors": [
+      "Ribbed vaults",
+      "Barrel vaults",
+      "Fan vaults"
+    ],
+    "engineering_explanation": "Speyer Cathedral was one of the first major churches to use groin vaults extensively in the nave, created by the intersection of two barrel vaults at right angles. This innovation allowed for greater height andspan while distributing weight more effectively than simple barrel vaulting.",
+    "fun_facts": [
+      "It was the largest church in the world when completed in 1106",
+      "Eight Holy Roman Emperors and German kings are buried in its crypt",
+      "The cathedral survived Allied bombing in WWII despite Speyer being heavily damaged",
+      "It became a UNESCO World Heritage Site in 1981 as the finest example of Romanesque architecture"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "abbey-of-cluny",
+    "name": "Abbey of Cluny",
+    "image_url": "/images/abbey-of-cluny.jpg",
+    "style": "Romanesque",
+    "style_distractors": [
+      "Gothic",
+      "Byzantine",
+      "Carolingian"
+    ],
+    "era": "1088-1130",
+    "style_explanation": "The Abbey of Cluny exemplifies Romanesque architecture with its massive stone walls, barrel vaults, and small rounded windows. The church featured the characteristic thick walls and sturdy pillars needed to support heavy stone roofing, along with elaborate sculptural decoration on capitals and portals.",
+    "engineering_question": "What structural system supported the nave of Cluny III's unprecedented height?",
+    "engineering_answer": "Pointed barrel vault",
+    "engineering_distractors": [
+      "Groin vault",
+      "Ribbed vault",
+      "Wooden truss"
+    ],
+    "engineering_explanation": "Cluny III used a pointed barrel vault to achieve its record-breaking height of 100 feet, making it taller than any previous Romanesque church. This innovation allowed for greater structural stability while supporting the enormous weight of the stone roof over such a vast space.",
+    "fun_facts": [
+      "Cluny III was the largest church in the world until St. Peter's Basilica was rebuilt in the 16th century",
+      "The abbey's bell tower, called the 'Tour de l'Eau B\u00e9nite,' still stands at 200 feet tall",
+      "Only the south transept and bell tower survive today - the rest was demolished after the French Revolution",
+      "At its peak, the Cluniac order controlled over 1,000 monasteries across Europe from this mother abbey"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "santiago-de-compostela-cathedral",
+    "name": "Santiago de Compostela Cathedral",
+    "image_url": "/images/santiago-de-compostela-cathedral.jpg",
+    "style": "Romanesque",
+    "style_distractors": [
+      "Gothic",
+      "Byzantine",
+      "Baroque"
+    ],
+    "era": "1075-1211",
+    "style_explanation": "The cathedral exemplifies Romanesque architecture with its massive stone construction, thick walls, and rounded arches throughout the structure. The famous P\u00f3rtico de la Gloria features the characteristic Romanesque sculptural program with biblical scenes carved in stone, while the barrel vaulted nave demonstrates the engineering solutions typical of this pre-Gothic period.",
+    "engineering_question": "What type of vaulting system supports the cathedral's nave?",
+    "engineering_answer": "Barrel vault",
+    "engineering_distractors": [
+      "Ribbed vault",
+      "Groin vault",
+      "Fan vault"
+    ],
+    "engineering_explanation": "The cathedral uses a barrel vault system to span the nave, which was the primary Romanesque solution for covering large interior spaces. This continuous arched ceiling distributes weight evenly along the walls, requiring the thick masonry construction characteristic of Romanesque buildings.",
+    "fun_facts": [
+      "It is the final destination of the Camino de Santiago pilgrimage route, walked by millions over the centuries",
+      "The famous botafumeiro is a giant incense burner that swings across the transept during special ceremonies",
+      "The cathedral houses the supposed remains of Saint James the Apostle in a silver casket",
+      "The P\u00f3rtico de la Gloria contains over 200 carved figures created by Master Mateo in the 12th century"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "casa-batllo",
+    "name": "Casa Batll\u00f3",
+    "image_url": "/images/casa-batllo.jpg",
+    "style": "Art Nouveau",
+    "style_distractors": [
+      "Gothic Revival",
+      "Modernisme",
+      "Art Deco"
+    ],
+    "era": "1904-1906",
+    "style_explanation": "Casa Batll\u00f3 exemplifies Art Nouveau through its organic, flowing forms inspired by nature, including bone-like columns and a undulating facade. The building features characteristic curved lines, colorful ceramic tiles, and decorative elements that reject straight lines in favor of natural forms.",
+    "engineering_question": "What innovative ventilation system did Gaud\u00ed design for Casa Batll\u00f3's interior?",
+    "engineering_answer": "Central light well system",
+    "engineering_distractors": [
+      "Radiant floor heating",
+      "Mechanical air circulation",
+      "Cross-ventilation corridors"
+    ],
+    "engineering_explanation": "Gaud\u00ed designed a central light well with graduated blue tiles that distributed natural light and air throughout the building. The well becomes lighter toward the bottom to ensure even illumination, while strategically placed windows provide optimal ventilation.",
+    "fun_facts": [
+      "The building is nicknamed 'House of Bones' due to its skeletal-like balconies and columns",
+      "No two windows in the facade are exactly the same size or shape",
+      "The roof represents the back of a dragon, with scales made of colorful ceramic tiles",
+      "Gaud\u00ed used a technique called 'trencad\u00eds' - broken ceramic pieces arranged in mosaic patterns"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hotel-tassel",
+    "name": "H\u00f4tel Tassel",
+    "image_url": "/images/hotel-tassel.jpg",
+    "style": "Art Nouveau",
+    "style_distractors": [
+      "Art Deco",
+      "Jugendstil",
+      "Secession Style"
+    ],
+    "era": "1893-1894",
+    "style_explanation": "H\u00f4tel Tassel exemplifies Art Nouveau through its revolutionary use of flowing, organic lines inspired by natural forms, particularly visible in the famous whiplash curves of its ironwork. The building features asymmetrical facades, botanical motifs throughout the interior, and the complete integration of decorative arts with architecture.",
+    "engineering_question": "What innovative structural system did Horta use to create the open floor plans?",
+    "engineering_answer": "Iron skeleton framework",
+    "engineering_distractors": [
+      "Steel beam construction",
+      "Reinforced concrete",
+      "Load-bearing masonry"
+    ],
+    "engineering_explanation": "Victor Horta pioneered the use of an exposed iron skeleton framework that allowed for unprecedented interior openness and flexibility. This structural innovation eliminated the need for thick load-bearing walls, enabling the fluid spatial arrangements characteristic of Art Nouveau design.",
+    "fun_facts": [
+      "It was the first private residence to fully embrace the Art Nouveau style",
+      "Victor Horta designed everything from the architecture to the doorknobs and carpets",
+      "The building is a UNESCO World Heritage Site as part of the Major Town Houses of Victor Horta",
+      "The famous staircase features exposed iron structure that was revolutionary for domestic architecture"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "glasgow-school-of-art",
+    "name": "Glasgow School of Art",
+    "image_url": "/images/glasgow-school-of-art.jpg",
+    "style": "Art Nouveau",
+    "style_distractors": [
+      "Arts and Crafts",
+      "Gothic Revival",
+      "Modernist"
+    ],
+    "era": "1897-1909",
+    "style_explanation": "The Glasgow School of Art exemplifies Art Nouveau through its organic, flowing lines and integration of decorative ironwork with functional elements. Mackintosh's design features stylized natural motifs, asymmetrical composition, and the characteristic Art Nouveau emphasis on craftsmanship and artistic unity.",
+    "engineering_question": "What innovative structural feature did Mackintosh use in the library to maximize natural light?",
+    "engineering_answer": "Double-height windows",
+    "engineering_distractors": [
+      "Steel frame construction",
+      "Reinforced concrete beams",
+      "Cantilevered balconies"
+    ],
+    "engineering_explanation": "Mackintosh designed the library with dramatic double-height windows on the west facade to flood the interior with natural light. This innovative approach created one of the most striking architectural spaces in the building while serving the practical needs of students and faculty.",
+    "fun_facts": [
+      "Charles Rennie Mackintosh was only 28 years old when he won the design competition",
+      "The building was constructed in two phases due to budget constraints, completed 12 years apart",
+      "Tragically damaged by two major fires in 2014 and 2018, with restoration efforts ongoing",
+      "The distinctive metalwork was hand-forged by local Glasgow craftsmen to Mackintosh's designs"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "casa-mila",
+    "name": "Casa Mil\u00e0",
+    "image_url": "/images/casa-mila.jpg",
+    "style": "Art Nouveau",
+    "style_distractors": [
+      "Art Deco",
+      "Modernisme",
+      "Expressionism"
+    ],
+    "era": "1906-1912",
+    "style_explanation": "Casa Mil\u00e0 exemplifies Art Nouveau through its organic, undulating stone facade that mimics natural forms like waves or cliffs. The building features asymmetrical balconies with wrought iron railings resembling seaweed, and its flowing curves reject traditional straight lines in favor of nature-inspired geometry.",
+    "engineering_question": "What innovative structural system allowed Casa Mil\u00e0 to have such fluid, non-load-bearing exterior walls?",
+    "engineering_answer": "Steel frame construction",
+    "engineering_distractors": [
+      "Reinforced concrete arches",
+      "Stone buttress system",
+      "Timber post-and-beam"
+    ],
+    "engineering_explanation": "Gaud\u00ed used a revolutionary steel frame structure that freed the exterior walls from load-bearing duties, allowing for the sculptural, undulating facade. This engineering innovation enabled the building's organic curves and irregular window openings that would be impossible with traditional masonry construction.",
+    "fun_facts": [
+      "Nicknamed 'La Pedrera' (The Stone Quarry) by locals who initially disliked its unusual appearance",
+      "The rooftop features surreal chimney sculptures that inspired the Stormtrooper helmet design in Star Wars",
+      "No two apartments in the building have the same floor plan due to its organic design",
+      "UNESCO World Heritage Site since 1984, recognizing its outstanding universal value"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "secession-building",
+    "name": "Secession Building",
+    "image_url": "/images/secession-building.jpg",
+    "style": "Art Nouveau",
+    "style_distractors": [
+      "Vienna Modern",
+      "Austrian Baroque",
+      "Jugendstil Revival"
+    ],
+    "era": "1897-1898",
+    "style_explanation": "The Secession Building exemplifies Art Nouveau through its geometric forms, ornamental details, and rejection of historical revival styles. Its famous golden dome of laurel leaves and the motto 'To every age its art, to every art its freedom' embody the movement's ideals of artistic independence and modern expression.",
+    "engineering_question": "What innovative material was prominently used in the building's distinctive golden dome?",
+    "engineering_answer": "Gilt bronze leaves",
+    "engineering_distractors": [
+      "Gold leaf plating",
+      "Brass sheeting",
+      "Copper gilding"
+    ],
+    "engineering_explanation": "The dome consists of approximately 3,000 gilt bronze laurel leaves arranged in an openwork pattern. This lightweight construction method allowed for the intricate organic forms while maintaining structural integrity and weather resistance.",
+    "fun_facts": [
+      "The building is nicknamed the 'Golden Cabbage' by locals due to its distinctive dome",
+      "It was designed by Joseph Maria Olbrich, a student of Otto Wagner",
+      "The basement houses Gustav Klimt's famous Beethoven Frieze",
+      "The entrance motto 'Der Zeit ihre Kunst, der Kunst ihre Freiheit' translates to 'To every age its art, to every art its freedom'"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "chrysler-building",
+    "name": "Chrysler Building",
+    "image_url": "/images/chrysler-building.jpg",
+    "style": "Art Deco",
+    "style_distractors": [
+      "Bauhaus",
+      "Art Nouveau",
+      "International Style"
+    ],
+    "era": "1928-1930",
+    "style_explanation": "The Chrysler Building exemplifies Art Deco through its geometric ornamentation, metallic eagle gargoyles, and distinctive stepped crown with radiating arches. The building's automotive-inspired decorative elements, including hubcaps and radiator caps, showcase the style's celebration of modern industrial design and luxury.",
+    "engineering_question": "What construction technique allowed the Chrysler Building to briefly become the world's tallest building?",
+    "engineering_answer": "Secret spire assembly",
+    "engineering_distractors": [
+      "Reinforced concrete core",
+      "Cantilever steel frame",
+      "Pneumatic foundation system"
+    ],
+    "engineering_explanation": "The building's architects secretly assembled a 185-foot steel spire inside the building and raised it through the roof in just 90 minutes. This surprise addition made it the world's tallest building at 1,046 feet, surpassing the Bank of Manhattan Trust Building.",
+    "fun_facts": [
+      "It was the world's tallest building for only 11 months before the Empire State Building was completed",
+      "The building's metallic crown changes color throughout the day as light reflects off its steel surfaces",
+      "Walter Chrysler paid for the building entirely with his own money, making it one of the few skyscrapers built without bank financing",
+      "The 61st floor contains a replica of Chrysler's 1929 Plymouth, complete with white-wall tires"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "empire-state-building",
+    "name": "Empire State Building",
+    "image_url": "/images/empire-state-building.jpg",
+    "style": "Art Deco",
+    "style_distractors": [
+      "Neoclassical",
+      "International Style",
+      "Beaux-Arts"
+    ],
+    "era": "1930-1931",
+    "style_explanation": "The Empire State Building exemplifies Art Deco through its stepped pyramidal crown, geometric limestone facade, and decorative metalwork featuring zigzag and chevron patterns. Its vertical emphasis and ornamental spire create the characteristic dramatic skyline silhouette typical of 1930s Art Deco skyscrapers.",
+    "engineering_question": "What revolutionary construction method allowed the Empire State Building to be completed in just 410 days?",
+    "engineering_answer": "Prefabricated steel frame assembly",
+    "engineering_distractors": [
+      "Reinforced concrete casting",
+      "Modular brick construction",
+      "Cast iron skeleton system"
+    ],
+    "engineering_explanation": "The building used an innovative prefabricated steel frame system where components were manufactured off-site and assembled rapidly on location. This assembly-line approach, combined with coordinated material deliveries and specialized crews, achieved unprecedented construction speed for a building of this scale.",
+    "fun_facts": [
+      "Has its own ZIP code (10118) due to the massive number of businesses inside",
+      "Was struck by a B-25 bomber in 1945, but the building survived with minimal structural damage",
+      "The famous lights on top consume enough electricity to power a small town",
+      "On clear days, visitors can see up to 80 miles in every direction from the observation deck"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hoover-dam",
+    "name": "Hoover Dam",
+    "image_url": "/images/hoover-dam.jpg",
+    "style": "Art Deco",
+    "style_distractors": [
+      "Modernist",
+      "Streamline Moderne",
+      "Brutalist"
+    ],
+    "era": "1931-1936",
+    "style_explanation": "The Hoover Dam showcases Art Deco design through its geometric patterns, stylized eagle sculptures, and angular relief carvings on the intake towers. The dam's decorative elements feature the characteristic zigzag motifs and streamlined forms typical of 1930s Art Deco architecture.",
+    "engineering_question": "What type of dam is the Hoover Dam structurally classified as?",
+    "engineering_answer": "Concrete arch-gravity dam",
+    "engineering_distractors": [
+      "Steel truss dam",
+      "Earth-fill embankment dam",
+      "Concrete buttress dam"
+    ],
+    "engineering_explanation": "The Hoover Dam combines both arch and gravity dam principles, using its curved shape to transfer water pressure to the canyon walls while relying on its massive weight for stability. This hybrid design was revolutionary for its time and optimal for the narrow Black Canyon location.",
+    "fun_facts": [
+      "Contains enough concrete to pave a highway from New York to San Francisco",
+      "Was originally called Boulder Dam before being renamed in 1947",
+      "The dam's concrete is still curing and gaining strength today, nearly 90 years later",
+      "Creates Lake Mead, the largest reservoir in the United States by volume"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "radio-city-music-hall",
+    "name": "Radio City Music Hall",
+    "image_url": "/images/radio-city-music-hall.jpg",
+    "style": "Art Deco",
+    "style_distractors": [
+      "Streamline Moderne",
+      "International Style",
+      "Bauhaus"
+    ],
+    "era": "1929-1932",
+    "style_explanation": "Radio City Music Hall exemplifies Art Deco through its geometric patterns, lavish gold leaf details, and stylized decorative elements throughout the interior. The building features the characteristic Art Deco emphasis on vertical lines, rich materials, and ornamental motifs inspired by modern machinery and geometric forms.",
+    "engineering_question": "What innovative structural system allowed Radio City's auditorium to have no support columns blocking views?",
+    "engineering_answer": "Cantilever construction",
+    "engineering_distractors": [
+      "Steel frame truss",
+      "Reinforced concrete arch",
+      "Suspension cable system"
+    ],
+    "engineering_explanation": "Radio City Music Hall pioneered the use of cantilever construction for theater design, allowing the balconies to extend outward without requiring support columns. This revolutionary structural approach created unobstructed sightlines for all 6,000 seats in the auditorium.",
+    "fun_facts": [
+      "The Great Stage is large enough to fit the Statue of Liberty lying on her side",
+      "Over 300 million people have attended performances since its 1932 opening",
+      "The famous Rockettes precision dance troupe has performed there since opening night",
+      "The venue's Wurlitzer organ has over 4,000 pipes and was the largest theater organ ever built"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "palais-de-tokyo",
+    "name": "Palais de Tokyo",
+    "image_url": "/images/palais-de-tokyo.jpg",
+    "style": "Art Deco",
+    "style_distractors": [
+      "Neoclassical",
+      "International Style",
+      "Beaux-Arts"
+    ],
+    "era": "1934-1937",
+    "style_explanation": "The Palais de Tokyo exemplifies Art Deco through its geometric forms, streamlined facades, and stylized decorative elements. The building features the characteristic stepped profiles, smooth stone surfaces, and integration of sculptural reliefs typical of 1930s Art Deco architecture.",
+    "engineering_question": "What innovative construction technique was used for the building's large exhibition halls?",
+    "engineering_answer": "Reinforced concrete frame",
+    "engineering_distractors": [
+      "Steel beam construction",
+      "Masonry load-bearing walls",
+      "Timber post-and-beam"
+    ],
+    "engineering_explanation": "The Palais de Tokyo utilized an advanced reinforced concrete frame system that allowed for large, column-free exhibition spaces. This technique was relatively new in the 1930s and enabled the creation of flexible interior galleries with minimal structural interruption.",
+    "fun_facts": [
+      "Originally built for the 1937 International Exhibition of Arts and Technology in Modern Life",
+      "Houses two separate institutions: the Mus\u00e9e d'Art Moderne and the contemporary art center",
+      "Features one of the largest murals in the world by artists Raoul Dufy and Robert Delaunay",
+      "The building's wings are connected by terraces offering views of the Eiffel Tower"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "villa-savoye",
+    "name": "Villa Savoye",
+    "image_url": "/images/villa-savoye.jpg",
+    "style": "Modernist",
+    "style_distractors": [
+      "Art Deco",
+      "Bauhaus",
+      "International Style"
+    ],
+    "era": "1928-1931",
+    "style_explanation": "Villa Savoye exemplifies Modernist architecture through Le Corbusier's Five Points of Architecture: pilotis (columns), free facade, open floor plan, horizontal windows, and roof garden. The building rejects traditional ornamentation in favor of pure geometric forms, white surfaces, and functional spaces that emphasize the machine aesthetic of the modern age.",
+    "engineering_question": "What structural system allows Villa Savoye's walls to be independent of the building's support?",
+    "engineering_answer": "Reinforced concrete frame",
+    "engineering_distractors": [
+      "Steel beam construction",
+      "Load-bearing masonry",
+      "Post-and-beam timber"
+    ],
+    "engineering_explanation": "The reinforced concrete frame structure separates the building's structural support from its walls, allowing for the free facade and open floor plans. This Dom-Ino system, developed by Le Corbusier, uses concrete columns and slabs to carry loads, freeing the walls from structural duties.",
+    "fun_facts": [
+      "Le Corbusier called it a 'machine for living in' to emphasize function over decoration",
+      "The building can be driven under thanks to its pilotis (supporting columns)",
+      "It was abandoned during WWII and used by German forces, leading to significant deterioration",
+      "The iconic ramp was designed to provide a 'promenade architecturale' through the spaces"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "fallingwater",
+    "name": "Fallingwater",
+    "image_url": "/images/fallingwater.jpg",
+    "style": "Modernist",
+    "style_distractors": [
+      "Art Deco",
+      "Prairie School",
+      "International Style"
+    ],
+    "era": "1936-1939",
+    "style_explanation": "Fallingwater exemplifies Modernist architecture through its horizontal emphasis, cantilevered concrete balconies, and integration with the natural landscape. The building rejects traditional ornament in favor of clean lines and emphasizes the honest expression of materials like reinforced concrete and local stone.",
+    "engineering_question": "What structural system allows Fallingwater's dramatic overhangs to extend without visible support?",
+    "engineering_answer": "Reinforced concrete cantilevers",
+    "engineering_distractors": [
+      "Steel frame construction",
+      "Post and beam system",
+      "Arch and vault structure"
+    ],
+    "engineering_explanation": "Wright used reinforced concrete cantilevers to create the dramatic overhanging terraces that extend boldly over the waterfall. These cantilevers are anchored deep into the hillside's bedrock, allowing the horizontal slabs to project without visible vertical supports beneath.",
+    "fun_facts": [
+      "Built directly over a 30-foot waterfall on Bear Run in Pennsylvania",
+      "Featured on the cover of Time magazine in 1938, making Wright famous again at age 70",
+      "The main cantilever extends 15 feet beyond its support without a single visible column",
+      "Wright never visited the site during the first year of planning, relying entirely on topographic surveys"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "barcelona-pavilion",
+    "name": "Barcelona Pavilion",
+    "image_url": "/images/barcelona-pavilion.jpg",
+    "style": "Modernist",
+    "style_distractors": [
+      "Art Deco",
+      "Bauhaus",
+      "International Style"
+    ],
+    "era": "1928-1929",
+    "style_explanation": "The Barcelona Pavilion exemplifies Modernist architecture through its radical simplicity, open floor plan, and emphasis on horizontal lines. Mies van der Rohe's design eliminates unnecessary ornamentation and creates flowing spaces using modern materials like steel, glass, and marble.",
+    "engineering_question": "What innovative structural system allowed the pavilion's walls to be non-load bearing?",
+    "engineering_answer": "Steel frame construction",
+    "engineering_distractors": [
+      "Reinforced concrete",
+      "Post and beam",
+      "Flying buttresses"
+    ],
+    "engineering_explanation": "The pavilion uses a steel frame structure that supports the roof independently of the walls. This allows the walls to function purely as space dividers and screens, creating the building's famous free-flowing interior plan.",
+    "fun_facts": [
+      "Originally built for the 1929 International Exposition in Barcelona as the German Pavilion",
+      "Features the iconic Barcelona Chair, designed specifically for the building by Mies van der Rohe",
+      "Was demolished after the exposition but reconstructed in the 1980s on the original site",
+      "Contains only two pieces of furniture and no interior walls, just free-standing planes"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "seagram-building",
+    "name": "Seagram Building",
+    "image_url": "/images/seagram-building.jpg",
+    "style": "Modernist",
+    "style_distractors": [
+      "Art Deco",
+      "International Style",
+      "Brutalist"
+    ],
+    "era": "1954-1958",
+    "style_explanation": "The Seagram Building exemplifies Modernist architecture through its clean geometric lines, minimal ornamentation, and emphasis on functional form. Its bronze and glass curtain wall system and setback plaza create a pure, rational aesthetic that defines mid-century corporate modernism.",
+    "engineering_question": "What innovative structural system allows the Seagram Building's curtain wall to hang freely?",
+    "engineering_answer": "Steel frame construction",
+    "engineering_distractors": [
+      "Reinforced concrete core",
+      "Post-tensioned beams",
+      "Composite steel-concrete"
+    ],
+    "engineering_explanation": "The building uses a steel frame structure that supports all loads, allowing the bronze and glass curtain wall to hang as a non-load-bearing skin. This engineering approach enabled the creation of uninterrupted glass surfaces and became a hallmark of modernist skyscraper design.",
+    "fun_facts": [
+      "It was the most expensive building ever constructed at the time, costing $36 million",
+      "Mies van der Rohe used expensive bronze instead of aluminum for the facade mullions",
+      "The building sits on a half-acre granite plaza, revolutionary for Manhattan real estate",
+      "It inspired the 1961 New York City zoning law requiring public plazas in exchange for building height"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "farnsworth-house",
+    "name": "Farnsworth House",
+    "image_url": "/images/farnsworth-house.jpg",
+    "style": "Modernist",
+    "style_distractors": [
+      "International Style",
+      "Bauhaus",
+      "Minimalist"
+    ],
+    "era": "1945-1951",
+    "style_explanation": "The Farnsworth House exemplifies Modernist architecture through its radical simplicity, extensive use of glass and steel, and complete elimination of ornamental details. Its transparent walls and open floor plan represent the Modernist ideal of honest materials and functional design.",
+    "engineering_question": "What structural system allows the Farnsworth House to appear to float above the ground?",
+    "engineering_answer": "Steel frame construction",
+    "engineering_distractors": [
+      "Reinforced concrete cantilever",
+      "Suspension cable system",
+      "Prestressed concrete beams"
+    ],
+    "engineering_explanation": "The house uses a simple steel frame with eight exterior columns that elevate the structure 5 feet above the flood-prone site. This minimal steel framework supports the entire glass-enclosed living space and creates the illusion of a floating pavilion.",
+    "fun_facts": [
+      "Designed by Ludwig Mies van der Rohe, it has only one interior wall - around the bathroom",
+      "The house floods regularly due to its riverside location, which was part of the design intention",
+      "Dr. Edith Farnsworth sued Mies van der Rohe, claiming the house was uninhabitable due to condensation and lack of privacy",
+      "It's considered one of the most important houses in architectural history despite being only 1,500 square feet"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "habitat-67",
+    "name": "Habitat 67",
+    "image_url": "/images/habitat-67.jpg",
+    "style": "Brutalist",
+    "style_distractors": [
+      "Metabolist",
+      "Deconstructivist",
+      "High-Tech"
+    ],
+    "era": "1964-1967",
+    "style_explanation": "Habitat 67 exemplifies Brutalist architecture through its monolithic concrete construction and geometric, fortress-like appearance. The building's raw concrete surfaces and repetitive modular units create the characteristic heavy, monumental quality typical of Brutalism.",
+    "engineering_question": "What innovative construction system did Moshe Safdie use to create Habitat 67's modular apartments?",
+    "engineering_answer": "Prefabricated concrete boxes",
+    "engineering_distractors": [
+      "Steel frame cantilevers",
+      "Post-tensioned slabs",
+      "Reinforced masonry units"
+    ],
+    "engineering_explanation": "Safdie pioneered the use of 354 identical prefabricated concrete modules that were manufactured off-site and then stacked and interconnected like building blocks. This modular system allowed for efficient construction while creating varied apartment configurations and terraced gardens.",
+    "fun_facts": [
+      "Originally designed as Safdie's thesis project at McGill University",
+      "Built for Expo 67, Montreal's World's Fair",
+      "Each apartment has access to a rooftop garden created by the module below",
+      "The building contains 146 apartments ranging from 1 to 4 bedrooms"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "national-theatre-london",
+    "name": "National Theatre London",
+    "image_url": "/images/national-theatre-london.jpg",
+    "style": "Brutalist",
+    "style_distractors": [
+      "International Style",
+      "Postmodern",
+      "High-Tech"
+    ],
+    "era": "1967-1976",
+    "style_explanation": "The National Theatre exemplifies Brutalist architecture through its massive concrete construction, geometric forms, and raw exposed surfaces. The building's bold angular terraces and heavy concrete elements create the characteristic fortress-like appearance typical of the Brutalist movement.",
+    "engineering_question": "What innovative concrete technique was used to create the theatre's distinctive textured surfaces?",
+    "engineering_answer": "Board-marked concrete",
+    "engineering_distractors": [
+      "Pre-stressed concrete",
+      "Reinforced steel frame",
+      "Cast-iron construction"
+    ],
+    "engineering_explanation": "Board-marked concrete, also known as b\u00e9ton brut, involves casting concrete against wooden boards to leave the wood grain pattern on the surface. This technique creates the raw, textured finish that became a hallmark of Brutalist architecture and gives the National Theatre its distinctive appearance.",
+    "fun_facts": [
+      "The building contains three separate theatres: the Olivier, Lyttelton, and Cottesloe (now Dorfman)",
+      "It was designed by architect Denys Lasdun and took nearly a decade to complete",
+      "The concrete terraces were inspired by ancient Greek amphitheatres",
+      "Prince Charles famously described it as 'a clever way of building a nuclear power station in the middle of London'"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "barbican-estate",
+    "name": "Barbican Estate",
+    "image_url": "/images/barbican-estate.jpg",
+    "style": "Brutalist",
+    "style_distractors": [
+      "Modernist",
+      "International Style",
+      "Postmodern"
+    ],
+    "era": "1965-1976",
+    "style_explanation": "The Barbican Estate exemplifies Brutalist architecture through its massive concrete construction, fortress-like appearance, and monolithic geometric forms. Its raw concrete surfaces, repetitive angular windows, and imposing scale create the characteristic heavy, sculptural quality that defines Brutalism.",
+    "engineering_question": "What innovative concrete technique was used extensively in the Barbican's construction?",
+    "engineering_answer": "Board-marked concrete",
+    "engineering_distractors": [
+      "Prestressed concrete",
+      "Reinforced concrete",
+      "Precast concrete panels"
+    ],
+    "engineering_explanation": "The Barbican pioneered the use of board-marked concrete, where wooden boards were used as formwork to create distinctive horizontal striations in the concrete surface. This technique became a signature aesthetic element of Brutalist architecture, giving the raw concrete a textured, tactile quality.",
+    "fun_facts": [
+      "It's Europe's largest multi-use arts center and residential complex",
+      "The estate contains three residential towers named after Shakespeare characters: Cromwell, Lauderdale, and Shakespeare",
+      "Over 4,000 people live in the Barbican's 2,014 flats",
+      "The complex includes its own school, library, and the famous Barbican Centre arts venue"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "boston-city-hall",
+    "name": "Boston City Hall",
+    "image_url": "/images/boston-city-hall.jpg",
+    "style": "Brutalist",
+    "style_distractors": [
+      "Modernist",
+      "International Style",
+      "Postmodern"
+    ],
+    "era": "1963-1968",
+    "style_explanation": "Boston City Hall exemplifies Brutalist architecture through its massive, fortress-like concrete structure with deeply recessed windows and bold geometric forms. The building's raw concrete exterior and emphasis on heavy, blocky masses over decorative elements are hallmarks of the Brutalist movement.",
+    "engineering_question": "What structural system allows the building's dramatic upper floors to cantilever over the plaza?",
+    "engineering_answer": "Reinforced concrete frame",
+    "engineering_distractors": [
+      "Steel truss system",
+      "Post-tensioned cables",
+      "Load-bearing masonry"
+    ],
+    "engineering_explanation": "The building uses a reinforced concrete frame system that enables the upper office floors to dramatically overhang the lower public areas. This creates the distinctive inverted pyramid shape while maintaining structural integrity through the concrete's tensile and compressive strength.",
+    "fun_facts": [
+      "The building was designed by Kallmann McKinnell & Knowles and won a national competition",
+      "It sits on a 56-acre urban renewal site that displaced thousands of residents",
+      "The structure contains over 125,000 square feet of office space",
+      "Despite public controversy, it was designated a Boston Landmark in 2020"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "trellick-tower",
+    "name": "Trellick Tower",
+    "image_url": "/images/trellick-tower.jpg",
+    "style": "Brutalist",
+    "style_distractors": [
+      "Modernist",
+      "International Style",
+      "Functionalist"
+    ],
+    "era": "1966-1972",
+    "style_explanation": "Trellick Tower exemplifies Brutalist architecture through its monolithic concrete construction, fortress-like appearance, and raw, unfinished concrete surfaces. The building's massive, sculptural form and emphasis on heavy, blocky geometry are quintessential Brutalist characteristics.",
+    "engineering_question": "What innovative structural system allows Trellick Tower's apartments to be column-free?",
+    "engineering_answer": "Cantilever construction",
+    "engineering_distractors": [
+      "Post-tensioned slabs",
+      "Steel frame skeleton",
+      "Load-bearing walls"
+    ],
+    "engineering_explanation": "The tower uses a cantilever system where apartments project from a central concrete core, eliminating the need for internal columns. This creates open, flexible living spaces while the services tower handles all utilities separately.",
+    "fun_facts": [
+      "Designed by Ern\u0151 Goldfinger, who also inspired the James Bond villain's name",
+      "Originally controversial, it's now a Grade II* listed building and highly sought-after residence",
+      "Features a separate services tower connected by walkways every three floors",
+      "At 31 stories tall, it was one of the tallest residential buildings in Europe when completed"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "pantheon-paris",
+    "name": "The Panth\u00e9on Paris",
+    "image_url": "/images/pantheon-paris.jpg",
+    "style": "Neoclassical",
+    "style_distractors": [
+      "Baroque",
+      "Gothic Revival",
+      "Renaissance"
+    ],
+    "era": "1758-1790",
+    "style_explanation": "The Panth\u00e9on exemplifies Neoclassical architecture through its prominent portico with Corinthian columns, triangular pediment, and symmetrical design inspired by ancient Greek and Roman temples. Its austere geometric forms and classical proportions reflect the 18th-century revival of ancient architectural principles.",
+    "engineering_question": "What innovative structural system supports the Panth\u00e9on's massive dome?",
+    "engineering_answer": "Triple shell construction",
+    "engineering_distractors": [
+      "Flying buttresses",
+      "Steel frame",
+      "Pendentive system"
+    ],
+    "engineering_explanation": "The Panth\u00e9on's dome uses a revolutionary triple shell construction with an inner decorative dome, a middle structural dome, and an outer weather-protective shell. This system distributes the enormous weight while allowing for the building's impressive interior height and exterior profile.",
+    "fun_facts": [
+      "Originally built as a church dedicated to Saint Genevi\u00e8ve, it was converted to a mausoleum during the French Revolution",
+      "Notable figures buried here include Voltaire, Rousseau, Marie Curie, and Alexandre Dumas",
+      "L\u00e9on Foucault demonstrated Earth's rotation here in 1851 with his famous pendulum experiment",
+      "The building's windows were walled up in 1791 to create a more solemn, tomb-like atmosphere"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "brandenburg-gate",
+    "name": "Brandenburg Gate",
+    "image_url": "/images/brandenburg-gate.jpg",
+    "style": "Neoclassical",
+    "style_distractors": [
+      "Baroque",
+      "Gothic Revival",
+      "Romanesque"
+    ],
+    "era": "1788-1791",
+    "style_explanation": "The Brandenburg Gate exemplifies Neoclassical architecture through its use of ancient Greek architectural elements, including twelve Doric columns arranged in a colonnade and classical proportions. The structure draws direct inspiration from the Propylaea of the Athenian Acropolis, featuring clean geometric lines and minimal ornamentation typical of the neoclassical revival movement.",
+    "engineering_question": "How many separate passages does the Brandenburg Gate contain for traffic flow?",
+    "engineering_answer": "Five passages",
+    "engineering_distractors": [
+      "Three passages",
+      "Seven passages",
+      "Nine passages"
+    ],
+    "engineering_explanation": "The Brandenburg Gate was designed with five passages between its twelve Doric columns, with the central passage originally reserved for royalty and the outer passages for general traffic. This multi-passage design was innovative for its time, allowing for organized traffic flow while maintaining the monument's ceremonial significance.",
+    "fun_facts": [
+      "The Quadriga sculpture on top has been stolen twice - once by Napoleon in 1806 and again by the Soviets in 1945",
+      "During the Cold War, the gate stood in East Berlin's death strip and was completely inaccessible from either side for 28 years",
+      "It's the only remaining original city gate of Berlin out of 18 that once existed",
+      "President Reagan delivered his famous 'Tear down this wall!' speech just 100 meters away from the gate"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "the-white-house",
+    "name": "The White House",
+    "image_url": "/images/the-white-house.jpg",
+    "style": "Neoclassical",
+    "style_distractors": [
+      "Georgian Colonial",
+      "Federal Style",
+      "Greek Revival"
+    ],
+    "era": "1792-1800",
+    "style_explanation": "The White House exemplifies Neoclassical architecture with its symmetrical facade, prominent portico supported by ionic columns, and clean geometric lines inspired by ancient Greek and Roman temples. The building's balanced proportions and classical pediment demonstrate the style's emphasis on order and harmony derived from antiquity.",
+    "engineering_question": "What structural system supports the White House's main floors?",
+    "engineering_answer": "Load-bearing masonry walls",
+    "engineering_distractors": [
+      "Steel frame construction",
+      "Post and beam timber",
+      "Reinforced concrete"
+    ],
+    "engineering_explanation": "The White House uses traditional load-bearing masonry construction with thick sandstone walls that support the weight of the floors and roof above. This 18th-century building technique was standard before the development of modern steel frame construction, with walls becoming thicker at lower levels to handle the accumulated structural loads.",
+    "fun_facts": [
+      "It takes 570 gallons of paint to cover the entire exterior surface",
+      "The building contains 132 rooms, including 35 bathrooms",
+      "It was the largest house in the United States when completed in 1800",
+      "The original sandstone walls were painted white to hide fire damage from the War of 1812"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "british-museum",
+    "name": "British Museum",
+    "image_url": "/images/british-museum.jpg",
+    "style": "Neoclassical",
+    "style_distractors": [
+      "Gothic Revival",
+      "Georgian",
+      "Victorian"
+    ],
+    "era": "1823-1847",
+    "style_explanation": "The British Museum exemplifies Neoclassical architecture with its imposing Greek Revival facade featuring 44 massive Ionic columns arranged in a peripteral colonnade. The building's symmetrical composition, classical proportions, and pediment decoration directly reference ancient Greek temple architecture, embodying the 19th-century revival of classical forms.",
+    "engineering_question": "What innovative structural system supports the British Museum's Great Court roof?",
+    "engineering_answer": "Steel and glass grid",
+    "engineering_distractors": [
+      "Cast iron trusses",
+      "Reinforced concrete dome",
+      "Laminated timber beams"
+    ],
+    "engineering_explanation": "The Great Court's roof consists of a revolutionary tessellated steel and glass grid shell designed by Foster + Partners, completed in 2000. This geometric steel framework creates a stunning geometric pattern while spanning the courtyard without internal supports, representing cutting-edge 21st-century engineering integrated into a 19th-century classical structure.",
+    "fun_facts": [
+      "The Great Court is the largest covered public square in Europe",
+      "The building houses over 8 million artifacts, though only 1% are on display",
+      "The famous Round Reading Room was where Karl Marx wrote Das Kapital",
+      "The museum's facade contains 44 columns, each weighing 10 tons"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "la-madeleine",
+    "name": "La Madeleine",
+    "image_url": "/images/la-madeleine.jpg",
+    "style": "Neoclassical",
+    "style_distractors": [
+      "Greek Revival",
+      "Empire",
+      "Baroque"
+    ],
+    "era": "1807-1842",
+    "style_explanation": "La Madeleine exemplifies Neoclassical architecture through its faithful recreation of ancient Roman temple design, featuring a complete peristyle of 52 Corinthian columns. The building demonstrates the Neoclassical emphasis on archaeological accuracy and monumental scale, serving as Napoleon's vision of imperial grandeur inspired by classical antiquity.",
+    "engineering_question": "What structural system supports La Madeleine's massive coffered ceiling without interior columns?",
+    "engineering_answer": "Iron framework",
+    "engineering_distractors": [
+      "Stone vaulting",
+      "Wooden trusses",
+      "Concrete arches"
+    ],
+    "engineering_explanation": "La Madeleine was one of the first major buildings to use an innovative iron framework to support its expansive coffered ceiling. This hidden iron structure allowed the interior to remain column-free while supporting the heavy stone ceiling, representing a pioneering use of industrial materials in monumental architecture.",
+    "fun_facts": [
+      "Napoleon originally intended it as a temple to glorify his Grande Arm\u00e9e",
+      "The building has no windows - all light enters through the entrance and skylights",
+      "It houses one of Paris's most famous food markets in its basement",
+      "The pediment sculpture depicts the Last Judgment with 42 carved figures"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "guggenheim-bilbao",
+    "name": "Guggenheim Bilbao",
+    "image_url": "/images/guggenheim-bilbao.jpg",
+    "style": "Contemporary",
+    "style_distractors": [
+      "Deconstructivism",
+      "High-Tech",
+      "Postmodern"
+    ],
+    "era": "1991-1997",
+    "style_explanation": "The Guggenheim Bilbao exemplifies Contemporary architecture through its innovative use of computer-aided design and cutting-edge materials like titanium cladding. Its fluid, sculptural form breaks traditional architectural conventions while incorporating advanced engineering solutions.",
+    "engineering_question": "What computer software was pioneered in this building's design process?",
+    "engineering_answer": "CATIA",
+    "engineering_distractors": [
+      "AutoCAD",
+      "Rhino",
+      "SketchUp"
+    ],
+    "engineering_explanation": "CATIA, originally developed for aerospace design, was used to model the building's complex curved surfaces. This marked one of the first major architectural applications of advanced 3D modeling software in construction.",
+    "fun_facts": [
+      "The building's titanium skin consists of 33,000 extremely thin sheets that shimmer in changing light",
+      "It's often called the 'Bilbao Effect' for its transformative impact on the city's economy and tourism",
+      "Frank Gehry's design was inspired by the scales of a fish and sailing ships",
+      "The museum's construction cost $89 million but generated over $100 million in tax revenue in its first year"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "beijing-national-stadium",
+    "name": "Beijing National Stadium",
+    "image_url": "/images/beijing-national-stadium.jpg",
+    "style": "Contemporary",
+    "style_distractors": [
+      "High-Tech",
+      "Deconstructivism",
+      "Brutalist"
+    ],
+    "era": "2003-2008",
+    "style_explanation": "The Beijing National Stadium exemplifies Contemporary architecture through its innovative use of digital design tools and advanced materials to create sculptural forms. Its nest-like steel structure represents the era's emphasis on parametric design and symbolic architectural expression.",
+    "engineering_question": "What type of structural system creates the stadium's distinctive nest-like appearance?",
+    "engineering_answer": "Steel lattice framework",
+    "engineering_distractors": [
+      "Tensioned cable network",
+      "Concrete shell structure",
+      "Composite truss system"
+    ],
+    "engineering_explanation": "The stadium features an intricate steel lattice framework of interwoven beams that distributes loads efficiently while creating the iconic nest appearance. This complex geometry required advanced computer modeling to analyze the structural behavior of the interconnected steel members.",
+    "fun_facts": [
+      "Nicknamed the 'Bird's Nest' for its distinctive woven steel exterior",
+      "Contains 42,000 tons of steel in its complex lattice structure",
+      "The retractable roof was removed from the original design to reduce costs",
+      "Served as the main venue for both 2008 Summer Olympics and 2022 Winter Olympics opening ceremonies"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "burj-khalifa",
+    "name": "Burj Khalifa",
+    "image_url": "/images/burj-khalifa.jpg",
+    "style": "Contemporary",
+    "style_distractors": [
+      "Neo-Futurism",
+      "High-Tech",
+      "Deconstructivism"
+    ],
+    "era": "2004-2010",
+    "style_explanation": "The Burj Khalifa exemplifies Contemporary architecture through its innovative use of modern materials, cutting-edge engineering technology, and sleek glass curtain wall system. Its design incorporates sustainable features and represents the pinnacle of 21st-century skyscraper construction techniques.",
+    "engineering_question": "What structural system does the Burj Khalifa use to resist wind loads and maintain stability?",
+    "engineering_answer": "Bundled tube system",
+    "engineering_distractors": [
+      "Steel moment frame",
+      "Concrete shear walls",
+      "Cable-stayed structure"
+    ],
+    "engineering_explanation": "The Burj Khalifa uses a bundled tube structural system where the building's hexagonal core is surrounded by three wings in a Y-shaped configuration. This design effectively distributes wind loads and provides exceptional stability for the tower's extreme height.",
+    "fun_facts": [
+      "At 828 meters tall, it remains the world's tallest building since 2010",
+      "The building sways approximately 1.5 meters at its peak during strong winds",
+      "It contains the world's highest observation deck on the 148th floor",
+      "The tower's design was inspired by the Hymenocallis flower and Islamic architecture"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "the-shard",
+    "name": "The Shard",
+    "image_url": "/images/the-shard.jpg",
+    "style": "Contemporary",
+    "style_distractors": [
+      "Postmodern",
+      "High-Tech",
+      "Deconstructivist"
+    ],
+    "era": "2009-2012",
+    "style_explanation": "The Shard exemplifies Contemporary architecture through its innovative glass pyramid form and mixed-use programming. Its sleek curtain wall system and dramatic tapering silhouette represent 21st-century design principles that prioritize transparency, sustainability, and urban density.",
+    "engineering_question": "What structural system allows The Shard to achieve its 310-meter height?",
+    "engineering_answer": "Reinforced concrete core",
+    "engineering_distractors": [
+      "Steel moment frame",
+      "Composite tube system",
+      "Outrigger truss system"
+    ],
+    "engineering_explanation": "The Shard uses a reinforced concrete core wall system that provides both structural support and lateral stability. This central core contains elevators, stairs, and utilities while allowing for flexible floor plates around the perimeter.",
+    "fun_facts": [
+      "At 310 meters tall, it was the tallest building in the European Union when completed",
+      "The building contains apartments, offices, restaurants, a hotel, and public viewing galleries",
+      "Its pyramidal form was inspired by railway lines and church spires",
+      "The facade uses 11,000 glass panels that reflect the changing London sky"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "cctv-headquarters",
+    "name": "CCTV Headquarters",
+    "image_url": "/images/cctv-headquarters.jpg",
+    "style": "Contemporary",
+    "style_distractors": [
+      "Deconstructivism",
+      "High-Tech",
+      "Postmodern"
+    ],
+    "era": "2004-2012",
+    "style_explanation": "The CCTV Headquarters exemplifies Contemporary architecture through its radical geometric form that challenges traditional skyscraper design. Its continuous loop structure and bold angular geometry represent the experimental and innovative spirit characteristic of 21st-century Contemporary architecture.",
+    "engineering_question": "What structural system allows the CCTV building's dramatic cantilevers and angular geometry?",
+    "engineering_answer": "Steel diagrid system",
+    "engineering_distractors": [
+      "Concrete core wall",
+      "Cable-stayed structure",
+      "Moment frame system"
+    ],
+    "engineering_explanation": "The building uses an innovative steel diagrid structural system that distributes loads through a network of diagonal steel members. This system allows for the dramatic 75-meter cantilevers and eliminates the need for traditional vertical columns in many areas.",
+    "fun_facts": [
+      "Nicknamed 'Big Pants' by Beijing locals due to its distinctive shape",
+      "The building's continuous loop creates a 473,000 square meter structure with no traditional corners",
+      "It was designed by Rem Koolhaas and Ole Scheeren of OMA (Office for Metropolitan Architecture)",
+      "The structure leans at a 6-degree angle and required complex engineering to prevent collapse during construction"
+    ],
+    "difficulty": "intermediate"
+  }
+]

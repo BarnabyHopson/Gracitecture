@@ -24,7 +24,69 @@ interface QuizProps {
   onBack: () => void
 }
 
-type QuizStage = 'style-question' | 'style-answer' | 'engineering-question' | 'engineering-answer' | 'complete'
+type QuizStage = 'difficulty-select' | 'style-question' | 'style-answer' | 'engineering-question' | 'engineering-answer' | 'complete'
+type DifficultyMode = 'basic' | 'advanced'
+
+// Style families for Basic mode distractor generation
+const STYLE_FAMILIES: Record<string, string[]> = {
+  ancient: ['Ancient Greek', 'Ancient Roman'],
+  medieval: ['Byzantine', 'Romanesque', 'Gothic'],
+  classical: ['Renaissance', 'Baroque', 'Neoclassical'],
+  earlyModern: ['Art Nouveau', 'Art Deco'],
+  modern: ['Modernist', 'Brutalist'],
+  contemporary: ['Contemporary'],
+}
+
+// Map each style to its family
+const STYLE_TO_FAMILY: Record<string, string> = {}
+Object.entries(STYLE_FAMILIES).forEach(([family, styles]) => {
+  styles.forEach(style => {
+    STYLE_TO_FAMILY[style] = family
+  })
+})
+
+// Family adjacency for picking "somewhat different but not wildly distant" distractors
+const FAMILY_ORDER = ['ancient', 'medieval', 'classical', 'earlyModern', 'modern', 'contemporary']
+
+const getDistantFamilies = (correctFamily: string): string[] => {
+  const idx = FAMILY_ORDER.indexOf(correctFamily)
+  // Return all families except the correct one
+  return FAMILY_ORDER.filter((_, i) => i !== idx)
+}
+
+const generateBasicDistractors = (correctStyle: string): string[] => {
+  const correctFamily = STYLE_TO_FAMILY[correctStyle]
+  if (!correctFamily) {
+    // Fallback if style not found in families
+    return ['Renaissance', 'Brutalist', 'Art Deco']
+  }
+
+  const otherFamilies = getDistantFamilies(correctFamily)
+  const distractors: string[] = []
+
+  // Shuffle other families and pick one style from each until we have 3
+  const shuffledFamilies = [...otherFamilies].sort(() => Math.random() - 0.5)
+
+  for (const family of shuffledFamilies) {
+    if (distractors.length >= 3) break
+    const familyStyles = STYLE_FAMILIES[family]
+    const randomStyle = familyStyles[Math.floor(Math.random() * familyStyles.length)]
+    if (randomStyle !== correctStyle && !distractors.includes(randomStyle)) {
+      distractors.push(randomStyle)
+    }
+  }
+
+  // If we still don't have 3, fill from any remaining styles
+  while (distractors.length < 3) {
+    const allStyles = Object.values(STYLE_FAMILIES).flat()
+    const randomStyle = allStyles[Math.floor(Math.random() * allStyles.length)]
+    if (randomStyle !== correctStyle && !distractors.includes(randomStyle)) {
+      distractors.push(randomStyle)
+    }
+  }
+
+  return distractors
+}
 
 const getStyleHint = (style: string): string => {
   const hints: Record<string, string> = {
@@ -105,7 +167,8 @@ export default function Quiz({ onBack }: QuizProps) {
     [...buildingsData as Building[]].sort(() => Math.random() - 0.5)
   )
   const [currentIndex, setCurrentIndex] = useState(0)
-  const [stage, setStage] = useState<QuizStage>('style-question')
+  const [stage, setStage] = useState<QuizStage>('difficulty-select')
+  const [difficultyMode, setDifficultyMode] = useState<DifficultyMode | null>(null)
   const [styleOptions, setStyleOptions] = useState<string[]>([])
   const [engineeringOptions, setEngineeringOptions] = useState<string[]>([])
   const [selectedStyle, setSelectedStyle] = useState<string | null>(null)
@@ -116,18 +179,32 @@ export default function Quiz({ onBack }: QuizProps) {
   const currentBuilding = buildings[currentIndex]
 
   useEffect(() => {
-    if (currentBuilding) {
-      // Shuffle style options
-      const shuffledStyles = [...currentBuilding.style_distractors, currentBuilding.style]
+    if (currentBuilding && difficultyMode) {
+      // Generate style options based on difficulty mode
+      let distractors: string[]
+      if (difficultyMode === 'advanced') {
+        // Advanced: use curated similar distractors from data
+        distractors = currentBuilding.style_distractors
+      } else {
+        // Basic: generate distractors from different style families
+        distractors = generateBasicDistractors(currentBuilding.style)
+      }
+      
+      const shuffledStyles = [...distractors, currentBuilding.style]
         .sort(() => Math.random() - 0.5)
       setStyleOptions(shuffledStyles)
 
-      // Shuffle engineering options
+      // Engineering options stay the same for both modes
       const shuffledEngineering = [...currentBuilding.engineering_distractors, currentBuilding.engineering_answer]
         .sort(() => Math.random() - 0.5)
       setEngineeringOptions(shuffledEngineering)
     }
-  }, [currentIndex, currentBuilding])
+  }, [currentIndex, currentBuilding, difficultyMode])
+
+  const handleDifficultySelect = (mode: DifficultyMode) => {
+    setDifficultyMode(mode)
+    setStage('style-question')
+  }
 
   const handleStyleAnswer = (answer: string) => {
     setSelectedStyle(answer)
@@ -167,11 +244,52 @@ export default function Quiz({ onBack }: QuizProps) {
 
   const handleRestart = () => {
     setCurrentIndex(0)
-    setStage('style-question')
+    setStage('difficulty-select')
+    setDifficultyMode(null)
     setSelectedStyle(null)
     setSelectedEngineering(null)
     setScore({ correct: 0, total: 0 })
     setShowBuildingName(false)
+  }
+
+  // Difficulty selection screen
+  if (stage === 'difficulty-select') {
+    return (
+      <div className="min-h-screen flex flex-col items-center justify-center p-8">
+        <div className="max-w-2xl w-full bg-ivory p-12 rounded-lg shadow-xl">
+          <h1 className="text-4xl font-bold text-center mb-4 text-fire-red">Select Difficulty</h1>
+          <p className="text-center text-gray-600 mb-8">
+            Choose your challenge level for identifying architectural styles
+          </p>
+          <div className="flex flex-col gap-4">
+            <button
+              onClick={() => handleDifficultySelect('basic')}
+              className="bg-white hover:bg-burnt-orange hover:text-ivory border-2 border-ochre p-6 rounded-lg transition-all"
+            >
+              <h2 className="text-2xl font-bold text-fire-red mb-2">Basic</h2>
+              <p className="text-gray-600">
+                Options from different architectural eras — good for learning
+              </p>
+            </button>
+            <button
+              onClick={() => handleDifficultySelect('advanced')}
+              className="bg-white hover:bg-burnt-orange hover:text-ivory border-2 border-ochre p-6 rounded-lg transition-all"
+            >
+              <h2 className="text-2xl font-bold text-fire-red mb-2">Advanced</h2>
+              <p className="text-gray-600">
+                Options from similar styles — test your expertise
+              </p>
+            </button>
+          </div>
+          <button
+            onClick={onBack}
+            className="mt-8 w-full text-ochre hover:text-fire-red font-semibold text-lg"
+          >
+            ← Back to Home
+          </button>
+        </div>
+      </div>
+    )
   }
 
   if (stage === 'complete') {
@@ -184,6 +302,9 @@ export default function Quiz({ onBack }: QuizProps) {
             <p className="text-6xl font-bold text-ochre mb-4">{percentage}%</p>
             <p className="text-2xl text-gray-700">
               {score.correct} out of {score.total} correct
+            </p>
+            <p className="text-lg text-gray-500 mt-2">
+              Mode: {difficultyMode === 'basic' ? 'Basic' : 'Advanced'}
             </p>
           </div>
           <div className="flex gap-4">
@@ -215,6 +336,9 @@ export default function Quiz({ onBack }: QuizProps) {
           ← Back
         </button>
         <div className="text-ochre font-semibold">
+          <span className="mr-4 text-sm bg-ochre/20 px-2 py-1 rounded">
+            {difficultyMode === 'basic' ? 'Basic' : 'Advanced'}
+          </span>
           Score: {score.correct}/{score.total} | Building {currentIndex + 1}/{buildings.length}
         </div>
       </div>
